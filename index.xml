@@ -2,49 +2,49 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>HyoSeung IT blog</title>
-    <link>https://github.com/HyoseungJeon/HyoseungJeon.github.io/</link>
+    <link>https://HyoseungJeon.github.io/</link>
     <description>Recent content on HyoSeung IT blog</description>
     <image>
       <title>HyoSeung IT blog</title>
-      <url>https://github.com/HyoseungJeon/HyoseungJeon.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://github.com/HyoseungJeon/HyoseungJeon.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://HyoseungJeon.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://HyoseungJeon.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko-kr</language>
-    <lastBuildDate>Fri, 07 Jul 2023 10:47:43 +0900</lastBuildDate><atom:link href="https://github.com/HyoseungJeon/HyoseungJeon.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 07 Jul 2023 10:47:43 +0900</lastBuildDate><atom:link href="https://HyoseungJeon.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Spring 내 thymeleaf 사용 주의점</title>
-      <link>https://github.com/HyoseungJeon/HyoseungJeon.github.io/posts/spring/test1/</link>
+      <link>https://HyoseungJeon.github.io/posts/spring/test1/</link>
       <pubDate>Fri, 07 Jul 2023 10:47:43 +0900</pubDate>
       
-      <guid>https://github.com/HyoseungJeon/HyoseungJeon.github.io/posts/spring/test1/</guid>
+      <guid>https://HyoseungJeon.github.io/posts/spring/test1/</guid>
       <description>intellij 내 사용 시 설정</description>
     </item>
     
     <item>
       <title>Spring</title>
-      <link>https://github.com/HyoseungJeon/HyoseungJeon.github.io/spring/</link>
+      <link>https://HyoseungJeon.github.io/spring/</link>
       <pubDate>Thu, 13 Jul 2023 11:26:21 +0900</pubDate>
       
-      <guid>https://github.com/HyoseungJeon/HyoseungJeon.github.io/spring/</guid>
+      <guid>https://HyoseungJeon.github.io/spring/</guid>
       <description></description>
     </item>
     
     <item>
       <title>첫 포스트</title>
-      <link>https://github.com/HyoseungJeon/HyoseungJeon.github.io/ch/</link>
+      <link>https://HyoseungJeon.github.io/ch/</link>
       <pubDate>Thu, 13 Jul 2023 09:44:22 +0900</pubDate>
       
-      <guid>https://github.com/HyoseungJeon/HyoseungJeon.github.io/ch/</guid>
+      <guid>https://HyoseungJeon.github.io/ch/</guid>
       <description></description>
     </item>
     
     <item>
       <title>My 1st post</title>
-      <link>https://github.com/HyoseungJeon/HyoseungJeon.github.io/test1/</link>
+      <link>https://HyoseungJeon.github.io/test1/</link>
       <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
       
-      <guid>https://github.com/HyoseungJeon/HyoseungJeon.github.io/test1/</guid>
+      <guid>https://HyoseungJeon.github.io/test1/</guid>
       <description>Desc Text.</description>
     </item>
     
