@@ -13,12 +13,15 @@
     <language>ko-kr</language>
     <lastBuildDate>Fri, 07 Jul 2023 10:47:43 +0900</lastBuildDate><atom:link href="https://HyoseungJeon.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Spring 내 thymeleaf 사용 주의점</title>
-      <link>https://HyoseungJeon.github.io/posts/spring/test1/</link>
+      <title>RequestContextHolder</title>
+      <link>https://HyoseungJeon.github.io/posts/spring/requestcontextholder/</link>
       <pubDate>Fri, 07 Jul 2023 10:47:43 +0900</pubDate>
       
-      <guid>https://HyoseungJeon.github.io/posts/spring/test1/</guid>
-      <description>intellij 내 사용 시 설정</description>
+      <guid>https://HyoseungJeon.github.io/posts/spring/requestcontextholder/</guid>
+      <description>설명 Spring 2.0 부터 추가된 기능으로 Request 인입 후 thread 생성 된 시점부터 전 구간에서 HttpServletRequest에 접근을 가능하게 해주는 기능이다.
+기존 Controller 단에 parameter 형식으로 선언 후 참고하던 방식과 다르게 위 객체를 통하여 request에 접근이 가능하다.
+예제 소스 :
+@GetMapping(&amp;#34;hello&amp;#34;) public void before(HttpServletRequest request) { sampleService.hello(request); } @GetMapping(&amp;#34;hello&amp;#34;) public void after() { HttpServletRequest request = ((ServletRequestAttributes)RequestContextHolder.currentRequestAttributes()).getRequest(); sampleService.hello(request); } 동작 원리 Request 인입 시 Spring 내 ThreadLocal 이라는 공간에 값을 저장하는 방식이다.</description>
     </item>
     
     <item>
