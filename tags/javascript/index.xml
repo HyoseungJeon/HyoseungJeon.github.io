@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>JavaScript on HyoSeung IT blog</title>
+    <link>https://HyoseungJeon.github.io/tags/javascript/</link>
+    <description>Recent content in JavaScript on HyoSeung IT blog</description>
+    <image>
+      <title>HyoSeung IT blog</title>
+      <url>https://HyoseungJeon.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://HyoseungJeon.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko-kr</language>
+    <lastBuildDate>Tue, 18 Jul 2023 11:13:10 +0900</lastBuildDate><atom:link href="https://HyoseungJeon.github.io/tags/javascript/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>setDate</title>
+      <link>https://HyoseungJeon.github.io/posts/javascript/date/setdate/</link>
+      <pubDate>Tue, 18 Jul 2023 11:13:10 +0900</pubDate>
+      
+      <guid>https://HyoseungJeon.github.io/posts/javascript/date/setdate/</guid>
+      <description>dateObj.setDate(dayValue) var theBigDay = new Date(1962, 6, 7); // 1962-07-07 theBigDay.setDate(24); // 1962-07-24 theBigDay.setDate(22); // 1962-08-22 해당 Date 객체의 날짜(day)를 설정하는 함수
+입력된 dayValue 값으로 날짜를 변경 한다.
+별로 특이해 보이지 않지만 변경 이라는 부분 때문에 보이지 않는 에러가 발생한 경우가 있다.
+위 기능을 통하여 js 내에서 날짜를 변경 하게 되는데
+var theBigDay = new Date(1962, 6, 7); // 1962-07-07 theBigDay.setDate(32); // 1962-08-01 theBigDay.setDate(0); // 1962-07-31 예제와 같이 날짜 범위를 자동으로 계산해 Date를 set 한다.</description>
+    </item>
+    
+  </channel>
+</rss>
