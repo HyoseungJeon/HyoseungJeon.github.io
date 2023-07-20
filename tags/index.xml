@@ -11,7 +11,34 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko-kr</language>
-    <lastBuildDate>Tue, 18 Jul 2023 11:13:10 +0900</lastBuildDate><atom:link href="https://HyoseungJeon.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 20 Jul 2023 11:07:59 +0900</lastBuildDate><atom:link href="https://HyoseungJeon.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Annotation</title>
+      <link>https://HyoseungJeon.github.io/tags/annotation/</link>
+      <pubDate>Thu, 20 Jul 2023 11:07:59 +0900</pubDate>
+      
+      <guid>https://HyoseungJeon.github.io/tags/annotation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Asynchronous</title>
+      <link>https://HyoseungJeon.github.io/tags/asynchronous/</link>
+      <pubDate>Thu, 20 Jul 2023 11:07:59 +0900</pubDate>
+      
+      <guid>https://HyoseungJeon.github.io/tags/asynchronous/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spring</title>
+      <link>https://HyoseungJeon.github.io/tags/spring/</link>
+      <pubDate>Thu, 20 Jul 2023 11:07:59 +0900</pubDate>
+      
+      <guid>https://HyoseungJeon.github.io/tags/spring/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Date</title>
       <link>https://HyoseungJeon.github.io/tags/date/</link>
@@ -45,15 +72,6 @@
       <pubDate>Tue, 18 Jul 2023 11:13:10 +0900</pubDate>
       
       <guid>https://HyoseungJeon.github.io/tags/thymeleaf/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Asynchronous</title>
-      <link>https://HyoseungJeon.github.io/tags/asynchronous/</link>
-      <pubDate>Mon, 17 Jul 2023 13:03:35 +0900</pubDate>
-      
-      <guid>https://HyoseungJeon.github.io/tags/asynchronous/</guid>
       <description></description>
     </item>
     
