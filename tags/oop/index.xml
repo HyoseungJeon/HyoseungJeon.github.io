@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>OOP on HyoSeung IT blog</title>
+    <link>https://HyoseungJeon.github.io/tags/oop/</link>
+    <description>Recent content in OOP on HyoSeung IT blog</description>
+    <image>
+      <title>HyoSeung IT blog</title>
+      <url>https://avatars.githubusercontent.com/u/39950673?s=400&u=729b17ca9c5632e754da66f17f45eb61aeea271e&v=4</url>
+      <link>https://avatars.githubusercontent.com/u/39950673?s=400&u=729b17ca9c5632e754da66f17f45eb61aeea271e&v=4</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko-kr</language>
+    <lastBuildDate>Fri, 21 Jul 2023 13:48:03 +0900</lastBuildDate><atom:link href="https://HyoseungJeon.github.io/tags/oop/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Reflection</title>
+      <link>https://HyoseungJeon.github.io/posts/java/reflection/</link>
+      <pubDate>Fri, 21 Jul 2023 13:48:03 +0900</pubDate>
+      
+      <guid>https://HyoseungJeon.github.io/posts/java/reflection/</guid>
+      <description>Reflection이란? 정의 Reflection enables Java code to discover information about the fields, methods and constructors of loaded classes, and to use reflected fields, methods, and constructors to operate on their underlying counterparts, within security restrictions. The API accommodates applications that need access to either the public members of a target object (based on its runtime class) or the members declared by a given class. It also allows programs to suppress default reflective access control.</description>
+    </item>
+    
+  </channel>
+</rss>
