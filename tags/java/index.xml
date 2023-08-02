@@ -11,7 +11,19 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko-kr</language>
-    <lastBuildDate>Fri, 21 Jul 2023 13:48:03 +0900</lastBuildDate><atom:link href="https://HyoseungJeon.github.io/tags/java/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 27 Jul 2023 15:13:07 +0900</lastBuildDate><atom:link href="https://HyoseungJeon.github.io/tags/java/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Nice 본인인증</title>
+      <link>https://HyoseungJeon.github.io/posts/api/nice%EB%B3%B8%EC%9D%B8%EC%9D%B8%EC%A6%9D/</link>
+      <pubDate>Thu, 27 Jul 2023 15:13:07 +0900</pubDate>
+      
+      <guid>https://HyoseungJeon.github.io/posts/api/nice%EB%B3%B8%EC%9D%B8%EC%9D%B8%EC%A6%9D/</guid>
+      <description>Nice 본인인증 이란? NICE 평가정보 회사에서 제공하는 본인 확인 서비스로 사용자의 주민등록번호 등과 같은 정보를 통해 실명 확인 과정을 거쳐 사용자의 명의를 확인할 수 있는 기능을 제공하는 API 이다.
+아마 내 생각엔 국내에서 개인 인증을 해야 하는 모든 사이트들이 API를 사용하여 인증을 하고 있을 것이다! 나 또한 엄청 쓰는 것 같다..
+해서 프로젝트 에서는 Nice 본인인증의 휴대폰 본인확인 방식을 넣게 되었다!
+개발 개발 방향 해당 API 에 관련하여 Docs 에서 자료를 찾아본 결과, API 호출 방식과 jsp file로 구현하는 방식으로 2개의 가이드라인을 제공하고 있었다.</description>
+    </item>
+    
     <item>
       <title>Reflection</title>
       <link>https://HyoseungJeon.github.io/posts/java/reflection/</link>
