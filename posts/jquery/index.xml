@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>jQuery on HyoSeung IT blog</title>
+    <link>https://HyoseungJeon.github.io/posts/jquery/</link>
+    <description>Recent content in jQuery on HyoSeung IT blog</description>
+    <image>
+      <title>HyoSeung IT blog</title>
+      <url>https://HyoseungJeon.github.io/profile.png</url>
+      <link>https://HyoseungJeon.github.io/profile.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko-kr</language>
+    <lastBuildDate>Wed, 16 Aug 2023 16:46:12 +0900</lastBuildDate><atom:link href="https://HyoseungJeon.github.io/posts/jquery/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Validate</title>
+      <link>https://HyoseungJeon.github.io/posts/jquery/validate/</link>
+      <pubDate>Wed, 16 Aug 2023 16:46:12 +0900</pubDate>
+      
+      <guid>https://HyoseungJeon.github.io/posts/jquery/validate/</guid>
+      <description>💡 프로젝트 투입 후 맡게 된 화면에서 변경사항이 생겼다! 가변 Input field가 추가되었는데 Validate 부분이 분기 문으로 처리되어 있었다..!
+해서 결국 관련된 소스를 하나하나 찾아서 추가하고 영향도 있는 부분은 수정하는 작업을 했다… 사실상 요구사항은 간단했지만 필요 이상으로 작업이 오래 걸렸다!
+해서 기존 분기 처리로 된 Validate가 아닌 jQuery 기반의 Validate로 구현을 한번 해보자!
+JQuery Validate? 정의 The jQuery Validation Plugin provides drop-in validation for your existing forms, while making all kinds of customizations to fit your application really easy.</description>
+    </item>
+    
+  </channel>
+</rss>
