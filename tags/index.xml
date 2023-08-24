@@ -11,13 +11,22 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko-kr</language>
-    <lastBuildDate>Wed, 16 Aug 2023 16:46:12 +0900</lastBuildDate><atom:link href="https://HyoseungJeon.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 23 Aug 2023 10:30:10 +0900</lastBuildDate><atom:link href="https://HyoseungJeon.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>JavaScript</title>
       <link>https://HyoseungJeon.github.io/tags/javascript/</link>
-      <pubDate>Wed, 16 Aug 2023 16:46:12 +0900</pubDate>
+      <pubDate>Wed, 23 Aug 2023 10:30:10 +0900</pubDate>
       
       <guid>https://HyoseungJeon.github.io/tags/javascript/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Validate</title>
+      <link>https://HyoseungJeon.github.io/tags/validate/</link>
+      <pubDate>Wed, 23 Aug 2023 10:30:10 +0900</pubDate>
+      
+      <guid>https://HyoseungJeon.github.io/tags/validate/</guid>
       <description></description>
     </item>
     
@@ -27,15 +36,6 @@
       <pubDate>Wed, 16 Aug 2023 16:46:12 +0900</pubDate>
       
       <guid>https://HyoseungJeon.github.io/tags/jquery/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Validate</title>
-      <link>https://HyoseungJeon.github.io/tags/validate/</link>
-      <pubDate>Wed, 16 Aug 2023 16:46:12 +0900</pubDate>
-      
-      <guid>https://HyoseungJeon.github.io/tags/validate/</guid>
       <description></description>
     </item>
     

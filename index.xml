@@ -11,9 +11,19 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko-kr</language>
-    <lastBuildDate>Wed, 16 Aug 2023 16:46:12 +0900</lastBuildDate><atom:link href="https://HyoseungJeon.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 23 Aug 2023 10:30:10 +0900</lastBuildDate><atom:link href="https://HyoseungJeon.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Validate</title>
+      <title>Custom Validate</title>
+      <link>https://HyoseungJeon.github.io/posts/javascript/validate/</link>
+      <pubDate>Wed, 23 Aug 2023 10:30:10 +0900</pubDate>
+      
+      <guid>https://HyoseungJeon.github.io/posts/javascript/validate/</guid>
+      <description>JQuery Custom Validate 개발 방향 지난번 JQuery Validate Plugin은 rule과 message를 mapping 해서 할당 후 노출하는 구조였다! 해서 내가 해결하려고 했던 정적으로 message를 계속 선언하는 부분이 개선되지 않았다. 해서 field의 attribute 값들로 모든 setting이 가능한 방식으로 구현을 해보려고 한다…! 😁😁
+소스 validateForm(formId) { const formTag = $(`#${formId}`) // form tag check if (!formTag.is(&amp;#34;form&amp;#34;)) { console.error(`${formId} is not Form tag or can&amp;#39;t find!! check id`) alert(&amp;#34;사용자 에러 메세지 노출&amp;#34;); return false; } // 하위 all input, select element 조회 for(let element of formTag.</description>
+    </item>
+    
+    <item>
+      <title>JQuery Validate</title>
       <link>https://HyoseungJeon.github.io/posts/jquery/validate/</link>
       <pubDate>Wed, 16 Aug 2023 16:46:12 +0900</pubDate>
       
