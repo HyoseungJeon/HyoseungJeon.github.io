@@ -18,12 +18,8 @@
       <pubDate>Mon, 07 Aug 2023 16:19:24 +0900</pubDate>
       
       <guid>https://HyoseungJeon.github.io/posts/java/file/</guid>
-      <description>File Class 란? 정의 An abstract representation of file and directory pathnames.
-User interfaces and operating systems use system-dependent pathname strings to name files and directories. This class presents an abstract, system-independent view of hierarchical pathnames.
-출처 - https://docs.oracle.com/javase/8/docs/api/java/io/File.html
-File, Directory의 추상 Class 즉, 파일이나 경로에 대한 정보를 추상화한 Class이다.
-해당 객체는 경로의 문자열을 통하여 선언이 가능하다.
-사용법 기본 import java.io.File; public class Main { public static void main(String[] args) { String filePath = &amp;#34;C:/java/Test.</description>
+      <description>💡 사용자에게 현재 STATIC Directory에 있는 pdf File 들을 다운로드 기능과 함께 목록을 제공하는 기능을 구현하는 일을 받았다! 정적 자산을 객체로 받아 화면에 알맞게 던져주는 기능을 구현해보자!! 생각보다 자주 구현할 일이 있는 기능이지만 실제로는 처음 해봐서 재미있었다..😁👍 File Class 란? 정의 An abstract representation of file and directory pathnames.
+User interfaces and operating systems use system-dependent pathname strings to name files and directories. This class presents an abstract, system-independent view of hierarchical pathnames.</description>
     </item>
     
     <item>
