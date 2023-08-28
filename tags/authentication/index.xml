@@ -11,7 +11,18 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko-kr</language>
-    <lastBuildDate>Thu, 27 Jul 2023 15:13:07 +0900</lastBuildDate><atom:link href="https://HyoseungJeon.github.io/tags/authentication/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 28 Aug 2023 10:20:45 +0900</lastBuildDate><atom:link href="https://HyoseungJeon.github.io/tags/authentication/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Nice본인인증 이슈대응</title>
+      <link>https://HyoseungJeon.github.io/posts/api/nice%EB%B3%B8%EC%9D%B8%EC%9D%B8%EC%A6%9D%EC%9D%B4%EC%8A%88%EB%8C%80%EC%9D%91/</link>
+      <pubDate>Mon, 28 Aug 2023 10:20:45 +0900</pubDate>
+      
+      <guid>https://HyoseungJeon.github.io/posts/api/nice%EB%B3%B8%EC%9D%B8%EC%9D%B8%EC%A6%9D%EC%9D%B4%EC%8A%88%EB%8C%80%EC%9D%91/</guid>
+      <description>Nice본인인증 이슈 문제 issue로 올라온 사항은 Android, IOS App 단에서 본인인증이 제대로 실행되지 않는다는 사항이였다! 본인인증 popup에서 인증을 완료 시 정상적으로 처리되지 않고 에러페이지로 이동하는 상황 이였다.
+원인 문제의 원인은 본인인증 Callback method가 실행되지 않는 상황이였다!!
+현재 구현된 프로젝트는 하이브리드 App방식으로 Android, IOS 각 OS의 Webview를 통해 App을 구현하고 있었다! 하지만 내가 기존에 구현한 방식은 해당 환경까지 듣지 못하여 App 환경까지 고려하여 구현을 하지 않았다.. 🤦‍♂️ 기존에는 Web의 BOM을 활용하여 opener.</description>
+    </item>
+    
     <item>
       <title>Nice 본인인증</title>
       <link>https://HyoseungJeon.github.io/posts/api/nice%EB%B3%B8%EC%9D%B8%EC%9D%B8%EC%A6%9D/</link>
