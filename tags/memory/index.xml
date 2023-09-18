@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Memory on HyoSeung IT blog</title>
+    <link>https://HyoseungJeon.github.io/tags/memory/</link>
+    <description>Recent content in Memory on HyoSeung IT blog</description>
+    <image>
+      <title>HyoSeung IT blog</title>
+      <url>https://HyoseungJeon.github.io/profile.png</url>
+      <link>https://HyoseungJeon.github.io/profile.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko-kr</language>
+    <lastBuildDate>Mon, 18 Sep 2023 08:34:54 +0900</lastBuildDate><atom:link href="https://HyoseungJeon.github.io/tags/memory/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Nud 메모리누수</title>
+      <link>https://HyoseungJeon.github.io/posts/window/nud%EB%A9%94%EB%AA%A8%EB%A6%AC%EB%88%84%EC%88%98/</link>
+      <pubDate>Mon, 18 Sep 2023 08:34:54 +0900</pubDate>
+      
+      <guid>https://HyoseungJeon.github.io/posts/window/nud%EB%A9%94%EB%AA%A8%EB%A6%AC%EB%88%84%EC%88%98/</guid>
+      <description>💡 프로젝트 투입 후 새로운 노트북을 지원 받아 일을 하게 됐다! 근데.. 시간이 지날수록 Intellij의 성능이 매우 느려졌고.. 컴퓨터의 기능이 정지하는 수준까지 가게 되었다.. 해서 작업관리자를 먼저 확인해보니 Memory의 점유율이 이상했다.. 노트북은 16GB의 Memory를 갖고 있었는데 실제로 가용한 메모리의 양이 11GB 정도였다! 해서 추가적으로 확인해보니 Memory의 비페이징 풀 이라는 항목이 3.5GB 정도를 점유하고 있었다.. 하여 그 문제점을 해결하던 중 window의 NUD 를 발견하게 되었다..! 이 문제를 좀 알아보자.. Window NUD NDU란?</description>
+    </item>
+    
+  </channel>
+</rss>
