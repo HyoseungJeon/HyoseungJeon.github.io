@@ -11,7 +11,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko-kr</language>
-    <lastBuildDate>Mon, 07 Aug 2023 16:19:24 +0900</lastBuildDate><atom:link href="https://HyoseungJeon.github.io/posts/java/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 17 Oct 2023 09:04:56 +0900</lastBuildDate><atom:link href="https://HyoseungJeon.github.io/posts/java/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Synchronized</title>
+      <link>https://HyoseungJeon.github.io/posts/java/synchronized/</link>
+      <pubDate>Tue, 17 Oct 2023 09:04:56 +0900</pubDate>
+      
+      <guid>https://HyoseungJeon.github.io/posts/java/synchronized/</guid>
+      <description>💡 Push Message Server에 문제가 발생했다! 등록된 결함의 내용은 간헐적으로 push 알림이 사용자에게 2건 씩 날라간다는 내용이였다. 그 이유는 무엇일까?? 이유는 Multi Thread 환경에서 Data의 동기 처리가 제대로 되어있지 않아서 였다.. 좀 더 잣세히 알아보자! Synchronized Synchronized란? The Java programming language provides two basic synchronization idioms: synchronized methods and synchronized statements. The more complex of the two, synchronized statements, are described in the next section. This section is about synchronized methods.</description>
+    </item>
+    
     <item>
       <title>File</title>
       <link>https://HyoseungJeon.github.io/posts/java/file/</link>

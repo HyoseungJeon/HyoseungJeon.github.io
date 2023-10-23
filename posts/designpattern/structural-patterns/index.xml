@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Structural Patterns on HyoSeung IT blog</title>
+    <link>https://HyoseungJeon.github.io/posts/designpattern/structural-patterns/</link>
+    <description>Recent content in Structural Patterns on HyoSeung IT blog</description>
+    <image>
+      <title>HyoSeung IT blog</title>
+      <url>https://HyoseungJeon.github.io/profile.png</url>
+      <link>https://HyoseungJeon.github.io/profile.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko-kr</language><atom:link href="https://HyoseungJeon.github.io/posts/designpattern/structural-patterns/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

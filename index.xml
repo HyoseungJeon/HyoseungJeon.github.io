@@ -11,7 +11,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko-kr</language>
-    <lastBuildDate>Mon, 18 Sep 2023 08:34:54 +0900</lastBuildDate><atom:link href="https://HyoseungJeon.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 17 Oct 2023 09:04:56 +0900</lastBuildDate><atom:link href="https://HyoseungJeon.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Synchronized</title>
+      <link>https://HyoseungJeon.github.io/posts/java/synchronized/</link>
+      <pubDate>Tue, 17 Oct 2023 09:04:56 +0900</pubDate>
+      
+      <guid>https://HyoseungJeon.github.io/posts/java/synchronized/</guid>
+      <description>💡 Push Message Server에 문제가 발생했다! 등록된 결함의 내용은 간헐적으로 push 알림이 사용자에게 2건 씩 날라간다는 내용이였다. 그 이유는 무엇일까?? 이유는 Multi Thread 환경에서 Data의 동기 처리가 제대로 되어있지 않아서 였다.. 좀 더 잣세히 알아보자! Synchronized Synchronized란? The Java programming language provides two basic synchronization idioms: synchronized methods and synchronized statements. The more complex of the two, synchronized statements, are described in the next section. This section is about synchronized methods.</description>
+    </item>
+    
     <item>
       <title>Nud 메모리누수</title>
       <link>https://HyoseungJeon.github.io/posts/window/nud%EB%A9%94%EB%AA%A8%EB%A6%AC%EB%88%84%EC%88%98/</link>
@@ -94,10 +103,10 @@ User interfaces and operating systems use system-dependent pathname strings to
     
     <item>
       <title>Strategy Pattern</title>
-      <link>https://HyoseungJeon.github.io/posts/designpattern/strategypattern/</link>
+      <link>https://HyoseungJeon.github.io/posts/designpattern/behavioral-patterns/strategypattern/</link>
       <pubDate>Mon, 24 Jul 2023 09:29:01 +0900</pubDate>
       
-      <guid>https://HyoseungJeon.github.io/posts/designpattern/strategypattern/</guid>
+      <guid>https://HyoseungJeon.github.io/posts/designpattern/behavioral-patterns/strategypattern/</guid>
       <description>💡 주로 Business Logic 을 작성하거나 혹은 보게 될 때 방대한 if else 분기와 보일러 플레이트들을 마주하게 된다!! 이는 Debuging 과정을 힘들게 하여.. 결국 지속적으로 안좋은 코드를 만들게 된다.. 하여 간단한 전략 패턴을 배워보고 활용해보자!! 전략 패턴이란? (Strategy Pattern) 정의 전략 패턴(strategy pattern) 또는 정책 패턴(policy pattern)은 실행 중에 알고리즘을 선택할 수 있게 하는 행위 소프트웨어 디자인 패턴이다. 전략 패턴은
 특정한 계열의 알고리즘들을 정의하고 각 알고리즘을 캡슐화하며 이 알고리즘들을 해당 계열 안에서 상호 교체가 가능하게 만든다.</description>
     </item>
