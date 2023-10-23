@@ -3,7 +3,25 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://HyoseungJeon.github.io/</loc>
-    <lastmod>2023-10-17T09:04:56+09:00</lastmod>
+    <lastmod>2023-10-17T10:14:27+09:00</lastmod>
+  </url><url>
+    <loc>https://HyoseungJeon.github.io/tags/intellij/</loc>
+    <lastmod>2023-10-17T10:14:27+09:00</lastmod>
+  </url><url>
+    <loc>https://HyoseungJeon.github.io/posts/intellij/</loc>
+    <lastmod>2023-10-17T10:14:27+09:00</lastmod>
+  </url><url>
+    <loc>https://HyoseungJeon.github.io/posts/</loc>
+    <lastmod>2023-10-17T10:14:27+09:00</lastmod>
+  </url><url>
+    <loc>https://HyoseungJeon.github.io/tags/properties/</loc>
+    <lastmod>2023-10-17T10:14:27+09:00</lastmod>
+  </url><url>
+    <loc>https://HyoseungJeon.github.io/posts/intellij/propertiesautoupper/</loc>
+    <lastmod>2023-10-17T10:14:27+09:00</lastmod>
+  </url><url>
+    <loc>https://HyoseungJeon.github.io/tags/</loc>
+    <lastmod>2023-10-17T10:14:27+09:00</lastmod>
   </url><url>
     <loc>https://HyoseungJeon.github.io/tags/java/</loc>
     <lastmod>2023-10-17T09:04:56+09:00</lastmod>
@@ -11,16 +29,10 @@
     <loc>https://HyoseungJeon.github.io/posts/java/</loc>
     <lastmod>2023-10-17T09:04:56+09:00</lastmod>
   </url><url>
-    <loc>https://HyoseungJeon.github.io/posts/</loc>
-    <lastmod>2023-10-17T09:04:56+09:00</lastmod>
-  </url><url>
     <loc>https://HyoseungJeon.github.io/tags/synchronized/</loc>
     <lastmod>2023-10-17T09:04:56+09:00</lastmod>
   </url><url>
     <loc>https://HyoseungJeon.github.io/posts/java/synchronized/</loc>
-    <lastmod>2023-10-17T09:04:56+09:00</lastmod>
-  </url><url>
-    <loc>https://HyoseungJeon.github.io/tags/</loc>
     <lastmod>2023-10-17T09:04:56+09:00</lastmod>
   </url><url>
     <loc>https://HyoseungJeon.github.io/tags/thread/</loc>
@@ -129,9 +141,6 @@
     <lastmod>2023-07-18T11:13:10+09:00</lastmod>
   </url><url>
     <loc>https://HyoseungJeon.github.io/posts/javascript/date/</loc>
-    <lastmod>2023-07-18T11:13:10+09:00</lastmod>
-  </url><url>
-    <loc>https://HyoseungJeon.github.io/posts/intellij/</loc>
     <lastmod>2023-07-18T11:13:10+09:00</lastmod>
   </url><url>
     <loc>https://HyoseungJeon.github.io/posts/javascript/date/setdate/</loc>

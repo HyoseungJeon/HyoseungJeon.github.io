@@ -11,7 +11,18 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko-kr</language>
-    <lastBuildDate>Tue, 17 Oct 2023 09:04:56 +0900</lastBuildDate><atom:link href="https://HyoseungJeon.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 17 Oct 2023 10:14:27 +0900</lastBuildDate><atom:link href="https://HyoseungJeon.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Properties Auto Upper</title>
+      <link>https://HyoseungJeon.github.io/posts/intellij/propertiesautoupper/</link>
+      <pubDate>Tue, 17 Oct 2023 10:14:27 +0900</pubDate>
+      
+      <guid>https://HyoseungJeon.github.io/posts/intellij/propertiesautoupper/</guid>
+      <description>문제 Intellij 내에서 간단한 문구 수정 때문에 properties file을 수정했는데 갑자기 file 전체에 변경사항이 잡혔다! 내용을 확인해보니 utf-8 Code 의 제일 앞 알파벳이 다 대문자로 upper 된 것 이였다..;
+원인 사실 크게 문제가 될 것 같지는 않지만 코드 리뷰 페이지에서 file 전체에 변경사항이 잡혀 edit line이 쓸데없이 많이 counting 되었다. 또한 호오오오옥~~ 시나 모르는 bug가 발생할 가능성이 무서워.. 수정을 해야할 것 같았다!
+문제의 원인은 project를 처음에 import 할 때에 eclipse type으로 열면 project option이 auto upper로 설정되는 듯 하였다!</description>
+    </item>
+    
     <item>
       <title>Synchronized</title>
       <link>https://HyoseungJeon.github.io/posts/java/synchronized/</link>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Intellij on HyoSeung IT blog</title>
-    <link>https://HyoseungJeon.github.io/posts/intellij/</link>
-    <description>Recent content in Intellij on HyoSeung IT blog</description>
+    <title>properties on HyoSeung IT blog</title>
+    <link>https://HyoseungJeon.github.io/tags/properties/</link>
+    <description>Recent content in properties on HyoSeung IT blog</description>
     <image>
       <title>HyoSeung IT blog</title>
       <url>https://HyoseungJeon.github.io/profile.png</url>
@@ -11,7 +11,7 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko-kr</language>
-    <lastBuildDate>Tue, 17 Oct 2023 10:14:27 +0900</lastBuildDate><atom:link href="https://HyoseungJeon.github.io/posts/intellij/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 17 Oct 2023 10:14:27 +0900</lastBuildDate><atom:link href="https://HyoseungJeon.github.io/tags/properties/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Properties Auto Upper</title>
       <link>https://HyoseungJeon.github.io/posts/intellij/propertiesautoupper/</link>
@@ -21,20 +21,6 @@
       <description>문제 Intellij 내에서 간단한 문구 수정 때문에 properties file을 수정했는데 갑자기 file 전체에 변경사항이 잡혔다! 내용을 확인해보니 utf-8 Code 의 제일 앞 알파벳이 다 대문자로 upper 된 것 이였다..;
 원인 사실 크게 문제가 될 것 같지는 않지만 코드 리뷰 페이지에서 file 전체에 변경사항이 잡혀 edit line이 쓸데없이 많이 counting 되었다. 또한 호오오오옥~~ 시나 모르는 bug가 발생할 가능성이 무서워.. 수정을 해야할 것 같았다!
 문제의 원인은 project를 처음에 import 할 때에 eclipse type으로 열면 project option이 auto upper로 설정되는 듯 하였다!</description>
-    </item>
-    
-    <item>
-      <title>Thymeleaf</title>
-      <link>https://HyoseungJeon.github.io/posts/intellij/thymeleaf/</link>
-      <pubDate>Tue, 18 Jul 2023 11:13:10 +0900</pubDate>
-      
-      <guid>https://HyoseungJeon.github.io/posts/intellij/thymeleaf/</guid>
-      <description>프로젝트를 옮기고 Spring 프로젝트를 세팅 하는 중 build error가 발생하였다!
-그 중 익숙하지 않은 build error가 있었는데
-Thymeleaf 관련 Directory를 추적하지 못하여 file not found Error가 나왔다..!
-알고 보니 따로 Template Engine을 설정하여 Project를 생성한 경우가 아닐 시 자동으로 추적 경로가 등록되지 않는 경우 같더라..
-내용을 추가적으로 찾아보니 Maven의 경우 따로 실행 Configurations 내 Working Directory 잡아주어야 한다는 내용을 찾았다..!
-Thymeleaf 프로젝트 build 시 Maven 관리 도구를 사용 중이고 따로 importing 한 프로젝트 라면 /WEB-INF/</description>
     </item>
     
   </channel>
