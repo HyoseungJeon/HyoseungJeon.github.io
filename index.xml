@@ -11,7 +11,19 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko-kr</language>
-    <lastBuildDate>Tue, 17 Oct 2023 10:14:27 +0900</lastBuildDate><atom:link href="https://HyoseungJeon.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 25 Oct 2023 11:03:36 +0900</lastBuildDate><atom:link href="https://HyoseungJeon.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Clean Architecture</title>
+      <link>https://HyoseungJeon.github.io/posts/%EB%8F%85%ED%9B%84%EA%B0%90/cleanarchitecture/</link>
+      <pubDate>Wed, 25 Oct 2023 11:03:36 +0900</pubDate>
+      
+      <guid>https://HyoseungJeon.github.io/posts/%EB%8F%85%ED%9B%84%EA%B0%90/cleanarchitecture/</guid>
+      <description>Clean Architecture 소프트웨어 구조와 설계의 원칙 로버트 C. 마틴 지음 | 송준이 옮김
+서론 우아한 스터디에서 해당 책을 주제로 스터디 모임이 열렸다! 공개 모집이라 여러가지 좋은 내용의 스터디 그룹들이 있었지만 구조 설계에 관심이 많아 해당 스터디에 지원했었다..
+하지만 탈락.. 😂😂 그래도 책에 대해 찾아보니 좋은 내용의 도서인 것 같아 한번 읽어보면 좋겠다 라는 생각이 들어 회사를 통해 구매했다!!
+책의 전반적인 내용은 소프트웨어 아키텍쳐의 중요성과 그 설계 방법, 노하우 등 다년간의 경험을 통한 지식들을 전달하는 내용이다!</description>
+    </item>
+    
     <item>
       <title>Properties Auto Upper</title>
       <link>https://HyoseungJeon.github.io/posts/intellij/propertiesautoupper/</link>
