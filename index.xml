@@ -11,7 +11,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko-kr</language>
-    <lastBuildDate>Wed, 25 Oct 2023 11:03:36 +0900</lastBuildDate><atom:link href="https://HyoseungJeon.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 31 Oct 2023 14:07:43 +0900</lastBuildDate><atom:link href="https://HyoseungJeon.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ZTree</title>
+      <link>https://HyoseungJeon.github.io/posts/jquery/ztree/</link>
+      <pubDate>Tue, 31 Oct 2023 14:07:43 +0900</pubDate>
+      
+      <guid>https://HyoseungJeon.github.io/posts/jquery/ztree/</guid>
+      <description>💡 공통 개발을 하며 개선 건이 생겼다! 기존에 계정의 권한을 관리할 때에 Grid에 뿌려진 Data를 찾아 해당 사용여부를 Y로 업데이트 해야 하는 번거로움이 있었다..! 아마 초기 설계했을 때에는 관리되는 데이터의 수가 적어 그런 것 같은데.. 관리 대상의 수가 6,000건 정도로 늘어나니 제대로 권한 관리하기가 어려웠다!! 하여 해당 자료구조를 Tree 형태로 마이그레이션 하게 됐다! 기존에 사용되던 ZTree Lib를 활용하여 개발하기로 의사결정이 되었다! 한번 해보자.. Z Tree 정의 zTree is an advanced jQuery &amp;rsquo;tree plug-in&amp;rsquo;.</description>
+    </item>
+    
     <item>
       <title>Clean Architecture</title>
       <link>https://HyoseungJeon.github.io/posts/%EB%8F%85%ED%9B%84%EA%B0%90/cleanarchitecture/</link>

@@ -11,7 +11,34 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko-kr</language>
-    <lastBuildDate>Wed, 25 Oct 2023 11:03:36 +0900</lastBuildDate><atom:link href="https://HyoseungJeon.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 31 Oct 2023 14:07:43 +0900</lastBuildDate><atom:link href="https://HyoseungJeon.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Data Structure</title>
+      <link>https://HyoseungJeon.github.io/tags/data-structure/</link>
+      <pubDate>Tue, 31 Oct 2023 14:07:43 +0900</pubDate>
+      
+      <guid>https://HyoseungJeon.github.io/tags/data-structure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>JavaScript</title>
+      <link>https://HyoseungJeon.github.io/tags/javascript/</link>
+      <pubDate>Tue, 31 Oct 2023 14:07:43 +0900</pubDate>
+      
+      <guid>https://HyoseungJeon.github.io/tags/javascript/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>jQuery</title>
+      <link>https://HyoseungJeon.github.io/tags/jquery/</link>
+      <pubDate>Tue, 31 Oct 2023 14:07:43 +0900</pubDate>
+      
+      <guid>https://HyoseungJeon.github.io/tags/jquery/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Architecture</title>
       <link>https://HyoseungJeon.github.io/tags/architecture/</link>
@@ -94,29 +121,11 @@
     </item>
     
     <item>
-      <title>JavaScript</title>
-      <link>https://HyoseungJeon.github.io/tags/javascript/</link>
-      <pubDate>Fri, 15 Sep 2023 09:41:20 +0900</pubDate>
-      
-      <guid>https://HyoseungJeon.github.io/tags/javascript/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Validate</title>
       <link>https://HyoseungJeon.github.io/tags/validate/</link>
       <pubDate>Wed, 23 Aug 2023 10:30:10 +0900</pubDate>
       
       <guid>https://HyoseungJeon.github.io/tags/validate/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>jQuery</title>
-      <link>https://HyoseungJeon.github.io/tags/jquery/</link>
-      <pubDate>Wed, 16 Aug 2023 16:46:12 +0900</pubDate>
-      
-      <guid>https://HyoseungJeon.github.io/tags/jquery/</guid>
       <description></description>
     </item>
     
