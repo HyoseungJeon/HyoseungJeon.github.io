@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>SQL on HyoSeung IT blog</title>
+    <link>https://HyoseungJeon.github.io/posts/sql/</link>
+    <description>Recent content in SQL on HyoSeung IT blog</description>
+    <image>
+      <title>HyoSeung IT blog</title>
+      <url>https://HyoseungJeon.github.io/profile.png</url>
+      <link>https://HyoseungJeon.github.io/profile.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko-kr</language>
+    <lastBuildDate>Tue, 07 Nov 2023 14:56:02 +0900</lastBuildDate><atom:link href="https://HyoseungJeon.github.io/posts/sql/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>With Recursive</title>
+      <link>https://HyoseungJeon.github.io/posts/sql/withrecursive/</link>
+      <pubDate>Tue, 07 Nov 2023 14:56:02 +0900</pubDate>
+      
+      <guid>https://HyoseungJeon.github.io/posts/sql/withrecursive/</guid>
+      <description>🔥 이전에 공통 개발 건이 생겨 ZTree 라는 Lib 을 이용해 개발을 한 적이 있다! 하여 해당 tree 구조의 Data를 뽑기 위해 사용된 API를 확인하던 중 위 문법을 처음 발견했다..! Query에 이런 문법이 존재 하는지도 처음 알았는데 그 사용법과 동작 방식 또한 RDB에서 접하지 못한 방식이라.. 매우 신기했다..! 그 내용이 뭔지 같이 알아보자~~😁✌ With Queries 정의 WITH provides a way to write auxiliary statements for use in a larger query.</description>
+    </item>
+    
+  </channel>
+</rss>

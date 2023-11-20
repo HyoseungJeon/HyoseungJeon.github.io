@@ -11,7 +11,25 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko-kr</language>
-    <lastBuildDate>Tue, 31 Oct 2023 14:07:43 +0900</lastBuildDate><atom:link href="https://HyoseungJeon.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 07 Nov 2023 14:56:02 +0900</lastBuildDate><atom:link href="https://HyoseungJeon.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Postgresql</title>
+      <link>https://HyoseungJeon.github.io/tags/postgresql/</link>
+      <pubDate>Tue, 07 Nov 2023 14:56:02 +0900</pubDate>
+      
+      <guid>https://HyoseungJeon.github.io/tags/postgresql/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SQL</title>
+      <link>https://HyoseungJeon.github.io/tags/sql/</link>
+      <pubDate>Tue, 07 Nov 2023 14:56:02 +0900</pubDate>
+      
+      <guid>https://HyoseungJeon.github.io/tags/sql/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Data Structure</title>
       <link>https://HyoseungJeon.github.io/tags/data-structure/</link>
