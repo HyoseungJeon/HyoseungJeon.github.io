@@ -11,7 +11,17 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko-kr</language>
-    <lastBuildDate>Tue, 07 Nov 2023 14:56:02 +0900</lastBuildDate><atom:link href="https://HyoseungJeon.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 04 Jan 2024 14:36:29 +0900</lastBuildDate><atom:link href="https://HyoseungJeon.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Page Reload Issue</title>
+      <link>https://HyoseungJeon.github.io/posts/javascript/pagereloadissue/</link>
+      <pubDate>Thu, 04 Jan 2024 14:36:29 +0900</pubDate>
+      
+      <guid>https://HyoseungJeon.github.io/posts/javascript/pagereloadissue/</guid>
+      <description>💡 Back Office의 특정 페이지에서 click event 발생 시 페이지가 자꾸 reload 되는 문제가 발견되었다! 사용량이 낮아 발견되지 않았던 것 같다.. 한번 살펴보자!! 문제 현상 페이지 내의 특정 영역 내의 버튼을 누르면 페이지가 자꾸 reload 되었다! 하여 해당 페이지의 기능이 제 역할을 하지 못하고 있었다..
+원인 문제의 원인은 굉장히 간단했다! Back Ofiice의 개발 가이드가 명확히 나와있지 않아 각자 개발자가 개발하던 중 특정 개발자는 tag를 영역 전체에 씌워 두었다..! 하여 해당 영역 내의 버튼 중 따로 type을 정의하지 않은 것을 클릭 시 submit Event가 발생하여 페이지를 자기 자신으로 redirect하고 있었다.</description>
+    </item>
+    
     <item>
       <title>With Recursive</title>
       <link>https://HyoseungJeon.github.io/posts/sql/withrecursive/</link>
