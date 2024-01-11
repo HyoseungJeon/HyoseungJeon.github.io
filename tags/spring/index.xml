@@ -11,7 +11,17 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko-kr</language>
-    <lastBuildDate>Thu, 10 Aug 2023 09:45:10 +0900</lastBuildDate><atom:link href="https://HyoseungJeon.github.io/tags/spring/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 10 Nov 2023 11:21:25 +0900</lastBuildDate><atom:link href="https://HyoseungJeon.github.io/tags/spring/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Spring Security</title>
+      <link>https://HyoseungJeon.github.io/posts/spring/springsecurity/</link>
+      <pubDate>Fri, 10 Nov 2023 11:21:25 +0900</pubDate>
+      
+      <guid>https://HyoseungJeon.github.io/posts/spring/springsecurity/</guid>
+      <description>💡 새로운 프로젝트에 들어와 공통 모듈을 맡으며 처음으로 계정 권한에 관련한 작업을 맡게 됐다! 하여 현재 계정의 권한이 어떤 방법으로 부여되는지 소스 코드를 살펴보게 되었는데.. Spring Security를 사용하여 구현하고 있었다.. 말로만 들어보고 건드려 본 적이 없는 영역인데 이번 기회에 한번 알아보자!! 😎😎 Spring Security Spring Security란? Spring Security is a powerful and highly customizable authentication and access-control framework. It is the de-facto standard for securing Spring-based applications.
+Spring Security is a framework that focuses on providing both authentication and authorization to Java applications.</description>
+    </item>
+    
     <item>
       <title>FCM</title>
       <link>https://HyoseungJeon.github.io/posts/api/fcm/</link>
