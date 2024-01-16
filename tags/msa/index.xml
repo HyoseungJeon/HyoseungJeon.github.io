@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>MSA on HyoSeung IT blog</title>
+    <link>https://HyoseungJeon.github.io/tags/msa/</link>
+    <description>Recent content in MSA on HyoSeung IT blog</description>
+    <image>
+      <title>HyoSeung IT blog</title>
+      <url>https://HyoseungJeon.github.io/profile.png</url>
+      <link>https://HyoseungJeon.github.io/profile.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko-kr</language>
+    <lastBuildDate>Wed, 22 Nov 2023 10:26:29 +0900</lastBuildDate><atom:link href="https://HyoseungJeon.github.io/tags/msa/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>MSA 환경 TraceId Logging</title>
+      <link>https://HyoseungJeon.github.io/posts/etc/msa-%ED%99%98%EA%B2%BD-traceid-logging/</link>
+      <pubDate>Wed, 22 Nov 2023 10:26:29 +0900</pubDate>
+      
+      <guid>https://HyoseungJeon.github.io/posts/etc/msa-%ED%99%98%EA%B2%BD-traceid-logging/</guid>
+      <description>💡 요즘 프로젝트를 가면 다 MSA 환경으로 개발하고 있다! 하여 APM을 통한 모니터링을 할 때 TraceId를 통해 flow를 확인하고 있는데.. 실제로 이게 어떻게 구현되는지 궁금했다..! 한번 그에 대해 내용을 알아보자~~~!😊😊 개요 MSA 환경의 Monitoring 대부분의 프로젝트는 요즘 분산 환경으로 구현되어 있다! 하여 복잡한 로직들은 N개의 프로젝트 흐름을 거쳐 실행된다! 하지만 실제로 해당 흐름을 추적하는 일은 조금 어렵다.. (Trace Id가 없었다면..!) 하여 위와 같은 애로사항을 해결하기 위한 방법이 필요했고 그 방식으로 TraceId를 부여하는 logging 방식이 등장했다!</description>
+    </item>
+    
+  </channel>
+</rss>

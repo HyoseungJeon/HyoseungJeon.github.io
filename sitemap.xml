@@ -20,6 +20,24 @@
     <loc>https://HyoseungJeon.github.io/tags/</loc>
     <lastmod>2024-01-04T14:36:29+09:00</lastmod>
   </url><url>
+    <loc>https://HyoseungJeon.github.io/posts/etc/</loc>
+    <lastmod>2023-11-22T10:26:29+09:00</lastmod>
+  </url><url>
+    <loc>https://HyoseungJeon.github.io/tags/monitoring/</loc>
+    <lastmod>2023-11-22T10:26:29+09:00</lastmod>
+  </url><url>
+    <loc>https://HyoseungJeon.github.io/tags/msa/</loc>
+    <lastmod>2023-11-22T10:26:29+09:00</lastmod>
+  </url><url>
+    <loc>https://HyoseungJeon.github.io/posts/etc/msa-%ED%99%98%EA%B2%BD-traceid-logging/</loc>
+    <lastmod>2023-11-22T10:26:29+09:00</lastmod>
+  </url><url>
+    <loc>https://HyoseungJeon.github.io/tags/sleuth/</loc>
+    <lastmod>2023-11-22T10:26:29+09:00</lastmod>
+  </url><url>
+    <loc>https://HyoseungJeon.github.io/tags/zipkin/</loc>
+    <lastmod>2023-11-22T10:26:29+09:00</lastmod>
+  </url><url>
     <loc>https://HyoseungJeon.github.io/tags/java/</loc>
     <lastmod>2023-11-10T11:21:25+09:00</lastmod>
   </url><url>
@@ -226,8 +244,6 @@
     <loc>https://HyoseungJeon.github.io/posts/chrome/debug/</loc>
   </url><url>
     <loc>https://HyoseungJeon.github.io/posts/docker/</loc>
-  </url><url>
-    <loc>https://HyoseungJeon.github.io/posts/etc/</loc>
   </url><url>
     <loc>https://HyoseungJeon.github.io/posts/jpa/</loc>
   </url><url>
