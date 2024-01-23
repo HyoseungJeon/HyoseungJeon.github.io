@@ -23,6 +23,15 @@
     </item>
     
     <item>
+      <title>Cursor</title>
+      <link>https://HyoseungJeon.github.io/posts/java/cursor/</link>
+      <pubDate>Thu, 23 Nov 2023 08:58:04 +0900</pubDate>
+      
+      <guid>https://HyoseungJeon.github.io/posts/java/cursor/</guid>
+      <description>💡 Batch 개발을 하는 도중 다른 job 소스를 참고하는데 엄청나게 많은 데이터를 읽어오는 reader 단을 짠 소스를 보았다..!! 이거 이렇게 읽어와도.. 문제가 없나?? 라는 생각이 들었고 내부 소스를 확인해보니.. Cursor 란 친구로 데이터를 읽어오고 있었다! 이전에 본 적이 없는 Class 였다!! 이 친구가 문제를 해결해 주고 있는 것 같아 내용이 궁금해져서 찾아보게 되었다!! Cursor란? 정의 Cursor contract to handle fetching items lazily using an Iterator. Cursors are a perfect fit to handle millions of items queries that would not normally fit in memory.</description>
+    </item>
+    
+    <item>
       <title>MSA 환경 TraceId Logging</title>
       <link>https://HyoseungJeon.github.io/posts/etc/msa-%ED%99%98%EA%B2%BD-traceid-logging/</link>
       <pubDate>Wed, 22 Nov 2023 10:26:29 +0900</pubDate>
