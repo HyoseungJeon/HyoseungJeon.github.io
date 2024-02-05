@@ -11,7 +11,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko-kr</language>
-    <lastBuildDate>Thu, 04 Jan 2024 14:36:29 +0900</lastBuildDate><atom:link href="https://HyoseungJeon.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 04 Jan 2024 16:25:51 +0900</lastBuildDate><atom:link href="https://HyoseungJeon.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>쏙쏙 들어오는 함수형 코딩</title>
+      <link>https://HyoseungJeon.github.io/posts/%EB%8F%85%ED%9B%84%EA%B0%90/%ED%95%A8%EC%88%98%ED%98%95%EC%BD%94%EB%94%A9/</link>
+      <pubDate>Thu, 04 Jan 2024 16:25:51 +0900</pubDate>
+      
+      <guid>https://HyoseungJeon.github.io/posts/%EB%8F%85%ED%9B%84%EA%B0%90/%ED%95%A8%EC%88%98%ED%98%95%EC%BD%94%EB%94%A9/</guid>
+      <description>Grokking Simplicity, 심플한 코드로 복잡한 소프트웨어 길들이기</description>
+    </item>
+    
     <item>
       <title>Page Reload Issue</title>
       <link>https://HyoseungJeon.github.io/posts/javascript/pagereloadissue/</link>
