@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Java 8 on HyoSeung IT blog</title>
+    <link>https://HyoseungJeon.github.io/tags/java-8/</link>
+    <description>Recent content in Java 8 on HyoSeung IT blog</description>
+    <image>
+      <title>HyoSeung IT blog</title>
+      <url>https://HyoseungJeon.github.io/profile.png</url>
+      <link>https://HyoseungJeon.github.io/profile.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko-kr</language>
+    <lastBuildDate>Wed, 27 Dec 2023 14:59:39 +0900</lastBuildDate><atom:link href="https://HyoseungJeon.github.io/tags/java-8/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Function Package</title>
+      <link>https://HyoseungJeon.github.io/posts/java/function-package/</link>
+      <pubDate>Wed, 27 Dec 2023 14:59:39 +0900</pubDate>
+      
+      <guid>https://HyoseungJeon.github.io/posts/java/function-package/</guid>
+      <description>💡 Jobrunr로 개발된 Batch Project에 새로운 job을 개발하게 되었다! 기존에 Spring batch와 모습이 달라 구조에 대해서 파악하던 중 Job 구조를 Java Function Package 기술을 적극 활용하여 구현되어 있었다! 기존에 가볍게 넘어가던 부분을 이번 기회에 제대로 확인해보자 싶어서 알아보게 되었다!! 한번 같이 자세히 들여다보자~😁😁 Function Package 정의 Functional interfaces provide target types for lambda expressions and method references. Each functional interface has a single abstract method, called the functional method for that functional interface, to which the lambda expression&amp;rsquo;s parameter and return types are matched or adapted.</description>
+    </item>
+    
+  </channel>
+</rss>
