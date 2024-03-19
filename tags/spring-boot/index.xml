@@ -11,7 +11,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko-kr</language>
-    <lastBuildDate>Fri, 10 Nov 2023 11:21:25 +0900</lastBuildDate><atom:link href="https://HyoseungJeon.github.io/tags/spring-boot/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 15 Feb 2024 10:38:49 +0900</lastBuildDate><atom:link href="https://HyoseungJeon.github.io/tags/spring-boot/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Scope</title>
+      <link>https://HyoseungJeon.github.io/posts/spring/scope/</link>
+      <pubDate>Thu, 15 Feb 2024 10:38:49 +0900</pubDate>
+      
+      <guid>https://HyoseungJeon.github.io/posts/spring/scope/</guid>
+      <description>💡 MSA 환경에서 개발을 하다 보니.. 여러가지 애로사항이 있다.. 😂 그 중 요즘 개발 중 가장 귀찮다고 느끼는 일은.. DB insert 시 식별자 값을 넣는 일이다..! 주로 생성자, 수정자 ID를 넣는 경우가 대부분인데.. 현 프로젝트에선 매번 해당 id 값들을 set, set, set 한다.. (너무 귀찮다..) 하여 Context로 소지하고 있는 userId 값을 mybatis의 bind로 가져와 set 하는 방식으로 전환 했다! 헌데 문제는.. MSA 환경에서 다른 서버로 값을 전달 시 Context를 그대로 사용하기 어렵다는 점 이였다.</description>
+    </item>
+    
     <item>
       <title>Spring Security</title>
       <link>https://HyoseungJeon.github.io/posts/spring/springsecurity/</link>
