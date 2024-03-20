@@ -11,7 +11,17 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko-kr</language>
-    <lastBuildDate>Wed, 22 Nov 2023 10:26:29 +0900</lastBuildDate><atom:link href="https://HyoseungJeon.github.io/tags/msa/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 20 Mar 2024 14:15:42 +0900</lastBuildDate><atom:link href="https://HyoseungJeon.github.io/tags/msa/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>MSA Id Auditing</title>
+      <link>https://HyoseungJeon.github.io/posts/etc/msaidauditing/</link>
+      <pubDate>Wed, 20 Mar 2024 14:15:42 +0900</pubDate>
+      
+      <guid>https://HyoseungJeon.github.io/posts/etc/msaidauditing/</guid>
+      <description>🔥 이전에 Scope 관련 글을 쓰며 추가적으로 내용을 찾아 AA 직무 다른 회사분에게 질문을 드렸는데, 해결 사항을 찾았다! 하여 간단하게 기록 해놓으려 한다~~ 개선 사항 이전에 Id 값을 매번 DTO에 set하여 보낸다고 하였다! 그래서 차선은 Context 정보가 있을 시 Header에 값을 세팅하여 요청을 보내는 방식을 생각하였다!
+해서 개인 마이그레이션 작업으로 하던 중 질문이 생겨 AA 분에게 질문을 드렸다! 헌데 Context가 아닌 Header 값을 통해 client Info를 관리하는 소스가 있다고 말씀해주시더라!</description>
+    </item>
+    
     <item>
       <title>MSA 환경 TraceId Logging</title>
       <link>https://HyoseungJeon.github.io/posts/etc/msa-%ED%99%98%EA%B2%BD-traceid-logging/</link>
