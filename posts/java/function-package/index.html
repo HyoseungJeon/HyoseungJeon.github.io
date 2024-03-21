@@ -37,6 +37,13 @@
 <span class=menu-suffix></span></a></li><li class=menu-item><a href=/posts/etc/oauth/><span class=menu-icon><i class=ri-sticky-note-fill></i></span>
 <span class=menu-title>OAuth</span>
 <span class=menu-suffix></span></a></li></ul></div></li><li class="menu-item sub-menu"><a href=#><span class=menu-icon><i class=ri-book-line></i></span>
+<span class=menu-title>HTML
+<span class=menu-title-suffix>(2)</span></span>
+<span class=menu-suffix></span></a><div class=sub-menu-list data-popper-placement=left><ul><li class=menu-item><a href=/posts/html/pagereloadissue/><span class=menu-icon><i class=ri-sticky-note-fill></i></span>
+<span class=menu-title>Page Reload Issue</span>
+<span class=menu-suffix></span></a></li><li class=menu-item><a href=/posts/html/pagereloadissue2/><span class=menu-icon><i class=ri-sticky-note-fill></i></span>
+<span class=menu-title>Page Reload Issue 2</span>
+<span class=menu-suffix></span></a></li></ul></div></li><li class="menu-item sub-menu"><a href=#><span class=menu-icon><i class=ri-book-line></i></span>
 <span class=menu-title>Intellij
 <span class=menu-title-suffix>(2)</span></span>
 <span class=menu-suffix></span></a><div class=sub-menu-list data-popper-placement=left><ul><li class=menu-item><a href=/posts/intellij/propertiesautoupper/><span class=menu-icon><i class=ri-sticky-note-fill></i></span>
@@ -62,7 +69,7 @@
 <span class=menu-title>Synchronized</span>
 <span class=menu-suffix></span></a></li></ul></div></li><li class="menu-item sub-menu"><a href=#><span class=menu-icon><i class=ri-book-line></i></span>
 <span class=menu-title>Java Script
-<span class=menu-title-suffix>(3)</span></span>
+<span class=menu-title-suffix>(2)</span></span>
 <span class=menu-suffix></span></a><div class=sub-menu-list data-popper-placement=left><ul><li class=menu-item><a href=/posts/javascript/validate/><span class=menu-icon><i class=ri-sticky-note-fill></i></span>
 <span class=menu-title>Custom Validate</span>
 <span class=menu-suffix></span></a></li><li class="menu-item sub-menu"><a href=#><span class=menu-icon><i class=ri-book-line></i></span>
@@ -70,9 +77,7 @@
 <span class=menu-title-suffix>(1)</span></span>
 <span class=menu-suffix></span></a><div class=sub-menu-list data-popper-placement=left><ul><li class=menu-item><a href=/posts/javascript/date/setdate/><span class=menu-icon><i class=ri-sticky-note-fill></i></span>
 <span class=menu-title>setDate</span>
-<span class=menu-suffix></span></a></li></ul></div></li><li class=menu-item><a href=/posts/javascript/pagereloadissue/><span class=menu-icon><i class=ri-sticky-note-fill></i></span>
-<span class=menu-title>Page Reload Issue</span>
-<span class=menu-suffix></span></a></li></ul></div></li><li class="menu-item sub-menu"><a href=#><span class=menu-icon><i class=ri-book-line></i></span>
+<span class=menu-suffix></span></a></li></ul></div></li></ul></div></li><li class="menu-item sub-menu"><a href=#><span class=menu-icon><i class=ri-book-line></i></span>
 <span class=menu-title>JQuery
 <span class=menu-title-suffix>(2)</span></span>
 <span class=menu-suffix></span></a><div class=sub-menu-list data-popper-placement=left><ul><li class=menu-item><a href=/posts/jquery/validate/><span class=menu-icon><i class=ri-sticky-note-fill></i></span>
@@ -127,7 +132,7 @@
 </span></span></code></pre></div><p>바로 Stream Class 이다!
 해당 Functional interface를 통해 사용하는 곳에서 람다식으로 용도에 따라 method를 주입할 수 있다!</p><h3 id=내-사용-예>내 사용 예<a hidden class=anchor aria-hidden=true href=#내-사용-예>#</a></h3><p>소스를 직접 작성하긴 애매하지만..! 작업 중 기존의 ExcelUtil에 file을 읽는 method가 활용도가 떨어져 따로 새로운 버전의 method를 작업했다! 헌데 공통적인 성향을 띄는 method임으로.. 추가로 유효성을 검증하는 부분을 <strong>Consumer interface로</strong> 구멍을 뚫어두었다! 하여 사용자는 필요 시 해당 param을 추가하여 data를 읽은 후 데이터를 사전에 검증할 수 있게 구현하였다!!</p><p>data를 모두 읽은 후 검증 하는 것 보다 읽은 row 1개 씩 검증한다면 사용자는 검증에 통과한 row만을 받거나, 다른 row를 읽을 필요 없이 작업에서 나올 수 있다!</p><h2 id=내-생각>내 생각<a hidden class=anchor aria-hidden=true href=#내-생각>#</a></h2><p>해당 기술이 너무 반가웠다! Java Script에서 활용하던 Function 변수와 같은 방식으로 코드를 구현할 수 있다는 점이 매우 친숙했다!! 공통 성향을 띄는 method를 개발하는 사람 입장에서는 해당 interface가 너무 반가웠을 것 같다!! 확실히 이 기능이 더해지고 나서 Java의 소스 작성 방식이 더욱 간결하고 직관적으로 변했다고 느꼈다! 특히 stream 문법이 그렇다! Function Package와 함께 등장하여 더욱 간결한 Java 언어 체계를 만들었다고 생각한다!! 확실히 기능적인 부분이나 동작에 이점이 있냐고 물어보는 개발자 에게는 시덥지 않은 Class로 보일 수 있겠지만.. 내가 볼 때는 확실히 함수형 개발의 패러다임을 만들어가는 시작점 아니였나 라고 보인다!! Java 같이 점유율이 높은 언어가 이러한 기능을 지원했다는 것은.. 큰 의미가 아닐까 싶다!! 😀😀</p><p>설계도 처럼 요구사항이 명확한 구멍을 뚫어두는 행위는.. 가독성 뿐만 아니라 그 설계도를 읽고 작업하는 모든 작업자들이 공통적인 영역을 갖게 된다!! 하면 결국 코드 관리에 있어서도 확실한 장점 아닐까..? 하지만 재밌는 사실은 이렇게 interface 구멍을 뚫어 두어도.. 사용자는 정말 마음대로 작업한다는 것을 보았다!! 이래서.. 디자인 패턴을 추가적으로 사용하나 싶다.. 😫😫</p><p>출처
 <a href=https://docs.oracle.com/javase/8/docs/api/java/util/function/package-summary.html>java.util.function (Java Platform SE 8 )</a>
-<a href=https://velog.io/@coastby/JAVA-java.util.function-%ED%8C%A8%ED%82%A4%EC%A7%80>[JAVA] java.util.function 패키지</a></p></div><footer class=post-footer><ul class=post-tags><li><a href=https://HyoseungJeon.github.io/tags/java/>Java</a></li><li><a href=https://HyoseungJeon.github.io/tags/java-8/>Java 8</a></li><li><a href=https://HyoseungJeon.github.io/tags/function-interface/>Function Interface</a></li></ul><nav class=paginav><a class=prev href=https://HyoseungJeon.github.io/posts/javascript/pagereloadissue/><span class=title>« Prev</span><br><span>Page Reload Issue</span></a>
+<a href=https://velog.io/@coastby/JAVA-java.util.function-%ED%8C%A8%ED%82%A4%EC%A7%80>[JAVA] java.util.function 패키지</a></p></div><footer class=post-footer><ul class=post-tags><li><a href=https://HyoseungJeon.github.io/tags/java/>Java</a></li><li><a href=https://HyoseungJeon.github.io/tags/java-8/>Java 8</a></li><li><a href=https://HyoseungJeon.github.io/tags/function-interface/>Function Interface</a></li></ul><nav class=paginav><a class=prev href=https://HyoseungJeon.github.io/posts/html/pagereloadissue/><span class=title>« Prev</span><br><span>Page Reload Issue</span></a>
 <a class=next href=https://HyoseungJeon.github.io/posts/etc/oauth/><span class=title>Next »</span><br><span>OAuth</span></a></nav></footer></article></main><footer class=footer><span>&copy; 2024 <a href=https://HyoseungJeon.github.io/>HyoSeung IT blog</a></span>
 <span>Powered by
 <a href=https://gohugo.io/ rel="noopener noreferrer" target=_blank>Hugo</a> &

@@ -11,7 +11,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko-kr</language>
-    <lastBuildDate>Wed, 20 Mar 2024 14:15:42 +0900</lastBuildDate><atom:link href="https://HyoseungJeon.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 21 Mar 2024 10:00:36 +0900</lastBuildDate><atom:link href="https://HyoseungJeon.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Html</title>
+      <link>https://HyoseungJeon.github.io/tags/html/</link>
+      <pubDate>Thu, 21 Mar 2024 10:00:36 +0900</pubDate>
+      
+      <guid>https://HyoseungJeon.github.io/tags/html/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Auditing</title>
       <link>https://HyoseungJeon.github.io/tags/auditing/</link>
@@ -54,15 +63,6 @@
       <pubDate>Thu, 15 Feb 2024 10:38:49 +0900</pubDate>
       
       <guid>https://HyoseungJeon.github.io/tags/spring-boot/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Html</title>
-      <link>https://HyoseungJeon.github.io/tags/html/</link>
-      <pubDate>Thu, 04 Jan 2024 14:36:29 +0900</pubDate>
-      
-      <guid>https://HyoseungJeon.github.io/tags/html/</guid>
       <description></description>
     </item>
     

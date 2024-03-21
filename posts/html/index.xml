@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Html on HyoSeung IT blog</title>
-    <link>https://HyoseungJeon.github.io/tags/html/</link>
-    <description>Recent content in Html on HyoSeung IT blog</description>
+    <title>HTML on HyoSeung IT blog</title>
+    <link>https://HyoseungJeon.github.io/posts/html/</link>
+    <description>Recent content in HTML on HyoSeung IT blog</description>
     <image>
       <title>HyoSeung IT blog</title>
       <url>https://HyoseungJeon.github.io/profile2.png</url>
@@ -11,7 +11,7 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko-kr</language>
-    <lastBuildDate>Thu, 21 Mar 2024 10:00:36 +0900</lastBuildDate><atom:link href="https://HyoseungJeon.github.io/tags/html/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 21 Mar 2024 10:00:36 +0900</lastBuildDate><atom:link href="https://HyoseungJeon.github.io/posts/html/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Page Reload Issue 2</title>
       <link>https://HyoseungJeon.github.io/posts/html/pagereloadissue2/</link>
