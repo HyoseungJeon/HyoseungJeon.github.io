@@ -86,9 +86,11 @@
 <span class=menu-title>ZTree</span>
 <span class=menu-suffix></span></a></li></ul></div></li><li class="menu-item sub-menu"><a href=#><span class=menu-icon><i class=ri-book-line></i></span>
 <span class=menu-title>Spring
-<span class=menu-title-suffix>(4)</span></span>
+<span class=menu-title-suffix>(5)</span></span>
 <span class=menu-suffix></span></a><div class=sub-menu-list data-popper-placement=left><ul><li class=menu-item><a href=/posts/spring/async/><span class=menu-icon><i class=ri-sticky-note-fill></i></span>
 <span class=menu-title>Async</span>
+<span class=menu-suffix></span></a></li><li class=menu-item><a href=/posts/spring/cache/><span class=menu-icon><i class=ri-sticky-note-fill></i></span>
+<span class=menu-title>Cache</span>
 <span class=menu-suffix></span></a></li><li class=menu-item><a href=/posts/spring/requestcontextholder/><span class=menu-icon><i class=ri-sticky-note-fill></i></span>
 <span class=menu-title>RequestContextHolder</span>
 <span class=menu-suffix></span></a></li><li class=menu-item><a href=/posts/spring/scope/><span class=menu-icon><i class=ri-sticky-note-fill></i></span>
@@ -148,7 +150,7 @@ You can control not only the various dependencies and configuration values that 
 </span></span></code></pre></div><h3 id=설명>설명<a hidden class=anchor aria-hidden=true href=#설명>#</a></h3><p>사용자의 Context를 session Scope로 지정해 관리하여, Login 시점에 Context에 정보를 set 후, proxyMode를 통하여 각 Component에서 주입 받아 사용할 수 있게 구현되어있다!</p><h3 id=애로사항>애로사항<a hidden class=anchor aria-hidden=true href=#애로사항>#</a></h3><p>문제는 MSA 환경에서 나온다..😂 해당 server에서 사용자의 Context를 세션 단위로 소지하고 있지만, Server 내에 종속된 정보로 다른 Server에서 사용하기는 당연히!! 어렵다. 물론 MSA 간 통신을 위한 모듈에 해당 Context 정보 소지 시, 공통적으로 같이 담아 보내는 소스가 있다면 좋겠지만.. 현재는 해당하는 내용이 없어 따로 request Data에 매번 담아서 데이터를 보내고 있다!!</p><h3 id=개선-방향>개선 방향<a hidden class=anchor aria-hidden=true href=#개선-방향>#</a></h3><p>사실 내 생각은 간단하다. 통신 모듈 단 에서 현재 Context에 Info값이 존재 시 데이터를 header에 넣어 송신해주는 것이다! 수신 서버에서는 request 범위의 Context를 새로 생성하여 intercepter 에서 token 값을 읽어 해당 Context를 그대로 주입하도록 하도록 만드는 것이 내 생각이다!</p><p>사실 현재는 userId 만 사용하는 경우가 대다수라 작업과 연산량에 비하여 배꼽이 너무 큰 것 같기도 하다.. 하지만 현재 프로젝트의 Context 정보에는 생각보다 유용한 정보가 많다!! 이를 활용하여 작업을 한다면 더 효율적이지 않을까..?</p><h2 id=내-생각>내 생각<a hidden class=anchor aria-hidden=true href=#내-생각>#</a></h2><p>사실 불필요한 소스를 줄인다 보다는, 약속된 값을 사용한다의 개념에서 해당 기능이 필요하다고 본다! 만약 해당 Context 정보를 활용하는 경우라면, 우리는 약속한 interface를 통해 원하는 값을 가져오게 할 수 있다! 허면 불필요한 error Case와 작업자의 실수 등 여러가지 방향에서도 운영 관리의 용이성을 크게 증대시켜 준다고 생각한다! 현재 소스의 여러 곳에 Common Data를 set, set, set 하는 코드가 너무 많다.. 특히나 bulk 단위의 데이터 전송 때에는 똑같은 데이터를 1,000 곳에 넣고 네트워크를 통해 보내고 받는다.. 😂😂 요즘 성능이 다 좋으니 문제가 없다면 다행이지만, 개발적인 측면에서 최대한 서로의 약속을 만들고 활용하는게 좋지 않을까..? 🙄</p><p>출처
 <a href=https://docs.spring.io/spring-framework/reference/core/beans/factory-scopes.html>Bean Scopes :: Spring Framework</a>
 <a href=https://mslim8803.tistory.com/70>7. [스프링 핵심 원리 - 기본편] 빈 스코프(Bean Scope)</a>
-<a href=https://code-lab1.tistory.com/186>[Spring] 빈 스코프(Bean Scope)란? Dependency Lookup(DL)이란?</a></p></div><footer class=post-footer><ul class=post-tags><li><a href=https://HyoseungJeon.github.io/tags/spring/>Spring</a></li><li><a href=https://HyoseungJeon.github.io/tags/spring-boot/>Spring Boot</a></li></ul><nav class=paginav><a class=prev href=https://HyoseungJeon.github.io/posts/etc/msaidauditing/><span class=title>« Prev</span><br><span>MSA Id Auditing</span></a>
+<a href=https://code-lab1.tistory.com/186>[Spring] 빈 스코프(Bean Scope)란? Dependency Lookup(DL)이란?</a></p></div><footer class=post-footer><ul class=post-tags><li><a href=https://HyoseungJeon.github.io/tags/spring/>Spring</a></li><li><a href=https://HyoseungJeon.github.io/tags/spring-boot/>Spring Boot</a></li></ul><nav class=paginav><a class=prev href=https://HyoseungJeon.github.io/posts/spring/cache/><span class=title>« Prev</span><br><span>Cache</span></a>
 <a class=next href=https://HyoseungJeon.github.io/posts/%EB%8F%85%ED%9B%84%EA%B0%90/%ED%95%A8%EC%88%98%ED%98%95%EC%BD%94%EB%94%A9/><span class=title>Next »</span><br><span>쏙쏙 들어오는 함수형 코딩</span></a></nav></footer></article></main><footer class=footer><span>&copy; 2024 <a href=https://HyoseungJeon.github.io/>HyoSeung IT blog</a></span>
 <span>Powered by
 <a href=https://gohugo.io/ rel="noopener noreferrer" target=_blank>Hugo</a> &
