@@ -144,6 +144,9 @@
   .layout .sidebar .menu .menu-item a:hover::after {
     border-color: var(--primary) !important; }
 
+.layout .sidebar .menu .menu-item .page {
+  height: 40px !important; }
+
 .layout .sidebar .menu .menu-item.sub-menu {
   position: relative; }
   .layout .sidebar .menu .menu-item.sub-menu > a::after {
