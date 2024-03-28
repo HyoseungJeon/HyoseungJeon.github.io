@@ -11,7 +11,34 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko-kr</language>
-    <lastBuildDate>Thu, 21 Mar 2024 10:00:36 +0900</lastBuildDate><atom:link href="https://HyoseungJeon.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 25 Mar 2024 11:28:24 +0900</lastBuildDate><atom:link href="https://HyoseungJeon.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Java</title>
+      <link>https://HyoseungJeon.github.io/tags/java/</link>
+      <pubDate>Mon, 25 Mar 2024 11:28:24 +0900</pubDate>
+      
+      <guid>https://HyoseungJeon.github.io/tags/java/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Queue</title>
+      <link>https://HyoseungJeon.github.io/tags/queue/</link>
+      <pubDate>Mon, 25 Mar 2024 11:28:24 +0900</pubDate>
+      
+      <guid>https://HyoseungJeon.github.io/tags/queue/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thread</title>
+      <link>https://HyoseungJeon.github.io/tags/thread/</link>
+      <pubDate>Mon, 25 Mar 2024 11:28:24 +0900</pubDate>
+      
+      <guid>https://HyoseungJeon.github.io/tags/thread/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Html</title>
       <link>https://HyoseungJeon.github.io/tags/html/</link>
@@ -81,15 +108,6 @@
       <pubDate>Wed, 27 Dec 2023 14:59:39 +0900</pubDate>
       
       <guid>https://HyoseungJeon.github.io/tags/function-interface/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Java</title>
-      <link>https://HyoseungJeon.github.io/tags/java/</link>
-      <pubDate>Wed, 27 Dec 2023 14:59:39 +0900</pubDate>
-      
-      <guid>https://HyoseungJeon.github.io/tags/java/</guid>
       <description></description>
     </item>
     
@@ -243,15 +261,6 @@
       <pubDate>Tue, 17 Oct 2023 09:04:56 +0900</pubDate>
       
       <guid>https://HyoseungJeon.github.io/tags/synchronized/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Thread</title>
-      <link>https://HyoseungJeon.github.io/tags/thread/</link>
-      <pubDate>Tue, 17 Oct 2023 09:04:56 +0900</pubDate>
-      
-      <guid>https://HyoseungJeon.github.io/tags/thread/</guid>
       <description></description>
     </item>
     

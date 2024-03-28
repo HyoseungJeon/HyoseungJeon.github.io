@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Thread on HyoSeung IT blog</title>
-    <link>https://HyoseungJeon.github.io/tags/thread/</link>
-    <description>Recent content in Thread on HyoSeung IT blog</description>
+    <title>Queue on HyoSeung IT blog</title>
+    <link>https://HyoseungJeon.github.io/tags/queue/</link>
+    <description>Recent content in Queue on HyoSeung IT blog</description>
     <image>
       <title>HyoSeung IT blog</title>
       <url>https://HyoseungJeon.github.io/profile2.png</url>
@@ -11,7 +11,7 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko-kr</language>
-    <lastBuildDate>Mon, 25 Mar 2024 11:28:24 +0900</lastBuildDate><atom:link href="https://HyoseungJeon.github.io/tags/thread/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 25 Mar 2024 11:28:24 +0900</lastBuildDate><atom:link href="https://HyoseungJeon.github.io/tags/queue/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Blocking Queue</title>
       <link>https://HyoseungJeon.github.io/posts/java/blockingqueue/</link>
@@ -19,15 +19,6 @@
       
       <guid>https://HyoseungJeon.github.io/posts/java/blockingqueue/</guid>
       <description>💡 Logging 시스템을 개발하며 담당하신 AA 분께서 차후 트래픽 증가를 고려하여 다중 쓰레드 방식으로 작업해두신 소스를 설명해두셨다! 하여 내부 소스를 확인해보니 여러가지 내용 중Blocking Queue 라는 Class가 눈에 들어왔다!! 처음 보는 Class 이기도 하고.. 디버깅을 해보니 동작도 신기하였다!! 간단하게 한번 보자! Blocking Queue 정의 A Queue that additionally supports operations that wait for the queue to become non-empty when retrieving an element, and wait for space to become available in the queue when storing an element.</description>
-    </item>
-    
-    <item>
-      <title>Synchronized</title>
-      <link>https://HyoseungJeon.github.io/posts/java/synchronized/</link>
-      <pubDate>Tue, 17 Oct 2023 09:04:56 +0900</pubDate>
-      
-      <guid>https://HyoseungJeon.github.io/posts/java/synchronized/</guid>
-      <description>💡 Push Message Server에 문제가 발생했다! 등록된 결함의 내용은 간헐적으로 push 알림이 사용자에게 2건 씩 날라간다는 내용이였다. 그 이유는 무엇일까?? 이유는 Multi Thread 환경에서 Data의 동기 처리가 제대로 되어있지 않아서 였다.. 좀 더 잣세히 알아보자! Synchronized Synchronized란? The Java programming language provides two basic synchronization idioms: synchronized methods and synchronized statements. The more complex of the two, synchronized statements, are described in the next section. This section is about synchronized methods.</description>
     </item>
     
   </channel>

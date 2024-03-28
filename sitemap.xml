@@ -2,22 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://HyoseungJeon.github.io/posts/java/blockingqueue/</loc>
+    <lastmod>2024-03-25T11:28:24+09:00</lastmod>
+  </url><url>
+    <loc>https://HyoseungJeon.github.io/</loc>
+    <lastmod>2024-03-25T11:28:24+09:00</lastmod>
+  </url><url>
+    <loc>https://HyoseungJeon.github.io/tags/java/</loc>
+    <lastmod>2024-03-25T11:28:24+09:00</lastmod>
+  </url><url>
+    <loc>https://HyoseungJeon.github.io/posts/java/</loc>
+    <lastmod>2024-03-25T11:28:24+09:00</lastmod>
+  </url><url>
+    <loc>https://HyoseungJeon.github.io/posts/</loc>
+    <lastmod>2024-03-25T11:28:24+09:00</lastmod>
+  </url><url>
+    <loc>https://HyoseungJeon.github.io/tags/queue/</loc>
+    <lastmod>2024-03-25T11:28:24+09:00</lastmod>
+  </url><url>
+    <loc>https://HyoseungJeon.github.io/tags/</loc>
+    <lastmod>2024-03-25T11:28:24+09:00</lastmod>
+  </url><url>
+    <loc>https://HyoseungJeon.github.io/tags/thread/</loc>
+    <lastmod>2024-03-25T11:28:24+09:00</lastmod>
+  </url><url>
     <loc>https://HyoseungJeon.github.io/tags/html/</loc>
     <lastmod>2024-03-21T10:00:36+09:00</lastmod>
   </url><url>
     <loc>https://HyoseungJeon.github.io/posts/html/</loc>
     <lastmod>2024-03-21T10:00:36+09:00</lastmod>
   </url><url>
-    <loc>https://HyoseungJeon.github.io/</loc>
-    <lastmod>2024-03-21T10:00:36+09:00</lastmod>
-  </url><url>
     <loc>https://HyoseungJeon.github.io/posts/html/pagereloadissue2/</loc>
-    <lastmod>2024-03-21T10:00:36+09:00</lastmod>
-  </url><url>
-    <loc>https://HyoseungJeon.github.io/posts/</loc>
-    <lastmod>2024-03-21T10:00:36+09:00</lastmod>
-  </url><url>
-    <loc>https://HyoseungJeon.github.io/tags/</loc>
     <lastmod>2024-03-21T10:00:36+09:00</lastmod>
   </url><url>
     <loc>https://HyoseungJeon.github.io/tags/auditing/</loc>
@@ -66,12 +81,6 @@
     <lastmod>2023-12-27T14:59:39+09:00</lastmod>
   </url><url>
     <loc>https://HyoseungJeon.github.io/posts/java/function-package/</loc>
-    <lastmod>2023-12-27T14:59:39+09:00</lastmod>
-  </url><url>
-    <loc>https://HyoseungJeon.github.io/tags/java/</loc>
-    <lastmod>2023-12-27T14:59:39+09:00</lastmod>
-  </url><url>
-    <loc>https://HyoseungJeon.github.io/posts/java/</loc>
     <lastmod>2023-12-27T14:59:39+09:00</lastmod>
   </url><url>
     <loc>https://HyoseungJeon.github.io/tags/java-8/</loc>
@@ -159,9 +168,6 @@
     <lastmod>2023-10-17T09:04:56+09:00</lastmod>
   </url><url>
     <loc>https://HyoseungJeon.github.io/posts/java/synchronized/</loc>
-    <lastmod>2023-10-17T09:04:56+09:00</lastmod>
-  </url><url>
-    <loc>https://HyoseungJeon.github.io/tags/thread/</loc>
     <lastmod>2023-10-17T09:04:56+09:00</lastmod>
   </url><url>
     <loc>https://HyoseungJeon.github.io/tags/memory/</loc>
