@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Design Patterns on HyoSeung IT blog</title>
+    <title>Design Pattern on HyoSeung IT blog</title>
     <link>https://HyoseungJeon.github.io/posts/designpattern/</link>
-    <description>Recent content in Design Patterns on HyoSeung IT blog</description>
+    <description>Recent content in Design Pattern on HyoSeung IT blog</description>
     <image>
       <title>HyoSeung IT blog</title>
       <url>https://HyoseungJeon.github.io/profile2.png</url>
