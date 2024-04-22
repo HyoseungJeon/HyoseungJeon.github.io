@@ -11,7 +11,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko-kr</language>
-    <lastBuildDate>Thu, 20 Jul 2023 11:07:59 +0900</lastBuildDate><atom:link href="https://HyoseungJeon.github.io/tags/annotation/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 22 Apr 2024 10:39:08 +0900</lastBuildDate><atom:link href="https://HyoseungJeon.github.io/tags/annotation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Custom Validate Annotation</title>
+      <link>https://HyoseungJeon.github.io/posts/spring/customvalidateannotation/</link>
+      <pubDate>Mon, 22 Apr 2024 10:39:08 +0900</pubDate>
+      
+      <guid>https://HyoseungJeon.github.io/posts/spring/customvalidateannotation/</guid>
+      <description>💡 프로젝트가 자체 Migration 작업을 하고 있다! 하여 다른 모듈에서 공통 코드를 Enum화 하기 시작했는데, 그 중 interface Class를 통하여 공통코드를 관리하게 작업하였다! 나 또한 새로운 작업 때문에 유효성 검증 로직에 공통코드 검증 로직의 추가가 필요 했는데 해당 interface를 활용하여 @Valid 작업을 통해 간편하게 검증을 하면 좋겠다고 생각하여 해당 작업을 하게 됐다!! 😁😁 한번 만들어보자~~ 문제 정의 현재 공통코드 값으로 검증하는 로직은 각자 정적인 방식으로 검증하는 로직을 사용하거나 검증을 하지 않고 있다.</description>
+    </item>
+    
     <item>
       <title>Async</title>
       <link>https://HyoseungJeon.github.io/posts/spring/async/</link>

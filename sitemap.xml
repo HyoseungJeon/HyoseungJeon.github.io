@@ -2,25 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://HyoseungJeon.github.io/posts/java/blockingqueue/</loc>
-    <lastmod>2024-03-25T11:28:24+09:00</lastmod>
+    <loc>https://HyoseungJeon.github.io/tags/annotation/</loc>
+    <lastmod>2024-04-22T10:39:08+09:00</lastmod>
+  </url><url>
+    <loc>https://HyoseungJeon.github.io/posts/spring/customvalidateannotation/</loc>
+    <lastmod>2024-04-22T10:39:08+09:00</lastmod>
   </url><url>
     <loc>https://HyoseungJeon.github.io/</loc>
-    <lastmod>2024-03-25T11:28:24+09:00</lastmod>
+    <lastmod>2024-04-22T10:39:08+09:00</lastmod>
   </url><url>
     <loc>https://HyoseungJeon.github.io/tags/java/</loc>
+    <lastmod>2024-04-22T10:39:08+09:00</lastmod>
+  </url><url>
+    <loc>https://HyoseungJeon.github.io/posts/</loc>
+    <lastmod>2024-04-22T10:39:08+09:00</lastmod>
+  </url><url>
+    <loc>https://HyoseungJeon.github.io/tags/spring/</loc>
+    <lastmod>2024-04-22T10:39:08+09:00</lastmod>
+  </url><url>
+    <loc>https://HyoseungJeon.github.io/posts/spring/</loc>
+    <lastmod>2024-04-22T10:39:08+09:00</lastmod>
+  </url><url>
+    <loc>https://HyoseungJeon.github.io/tags/</loc>
+    <lastmod>2024-04-22T10:39:08+09:00</lastmod>
+  </url><url>
+    <loc>https://HyoseungJeon.github.io/tags/validate/</loc>
+    <lastmod>2024-04-22T10:39:08+09:00</lastmod>
+  </url><url>
+    <loc>https://HyoseungJeon.github.io/posts/java/blockingqueue/</loc>
     <lastmod>2024-03-25T11:28:24+09:00</lastmod>
   </url><url>
     <loc>https://HyoseungJeon.github.io/posts/java/</loc>
     <lastmod>2024-03-25T11:28:24+09:00</lastmod>
   </url><url>
-    <loc>https://HyoseungJeon.github.io/posts/</loc>
-    <lastmod>2024-03-25T11:28:24+09:00</lastmod>
-  </url><url>
     <loc>https://HyoseungJeon.github.io/tags/queue/</loc>
-    <lastmod>2024-03-25T11:28:24+09:00</lastmod>
-  </url><url>
-    <loc>https://HyoseungJeon.github.io/tags/</loc>
     <lastmod>2024-03-25T11:28:24+09:00</lastmod>
   </url><url>
     <loc>https://HyoseungJeon.github.io/tags/thread/</loc>
@@ -56,13 +71,7 @@
     <loc>https://HyoseungJeon.github.io/posts/spring/cache/</loc>
     <lastmod>2024-03-14T14:04:50+09:00</lastmod>
   </url><url>
-    <loc>https://HyoseungJeon.github.io/posts/spring/</loc>
-    <lastmod>2024-03-14T14:04:50+09:00</lastmod>
-  </url><url>
     <loc>https://HyoseungJeon.github.io/posts/spring/scope/</loc>
-    <lastmod>2024-02-15T10:38:49+09:00</lastmod>
-  </url><url>
-    <loc>https://HyoseungJeon.github.io/tags/spring/</loc>
     <lastmod>2024-02-15T10:38:49+09:00</lastmod>
   </url><url>
     <loc>https://HyoseungJeon.github.io/tags/spring-boot/</loc>
@@ -200,9 +209,6 @@
     <loc>https://HyoseungJeon.github.io/posts/javascript/</loc>
     <lastmod>2023-08-23T10:30:10+09:00</lastmod>
   </url><url>
-    <loc>https://HyoseungJeon.github.io/tags/validate/</loc>
-    <lastmod>2023-08-23T10:30:10+09:00</lastmod>
-  </url><url>
     <loc>https://HyoseungJeon.github.io/posts/jquery/validate/</loc>
     <lastmod>2023-08-16T16:46:12+09:00</lastmod>
   </url><url>
@@ -238,9 +244,6 @@
   </url><url>
     <loc>https://HyoseungJeon.github.io/posts/java/generic/</loc>
     <lastmod>2023-07-21T08:27:33+09:00</lastmod>
-  </url><url>
-    <loc>https://HyoseungJeon.github.io/tags/annotation/</loc>
-    <lastmod>2023-07-20T11:07:59+09:00</lastmod>
   </url><url>
     <loc>https://HyoseungJeon.github.io/posts/spring/async/</loc>
     <lastmod>2023-07-20T11:07:59+09:00</lastmod>

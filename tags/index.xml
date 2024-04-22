@@ -11,13 +11,40 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko-kr</language>
-    <lastBuildDate>Mon, 25 Mar 2024 11:28:24 +0900</lastBuildDate><atom:link href="https://HyoseungJeon.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 22 Apr 2024 10:39:08 +0900</lastBuildDate><atom:link href="https://HyoseungJeon.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Annotation</title>
+      <link>https://HyoseungJeon.github.io/tags/annotation/</link>
+      <pubDate>Mon, 22 Apr 2024 10:39:08 +0900</pubDate>
+      
+      <guid>https://HyoseungJeon.github.io/tags/annotation/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Java</title>
       <link>https://HyoseungJeon.github.io/tags/java/</link>
-      <pubDate>Mon, 25 Mar 2024 11:28:24 +0900</pubDate>
+      <pubDate>Mon, 22 Apr 2024 10:39:08 +0900</pubDate>
       
       <guid>https://HyoseungJeon.github.io/tags/java/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spring</title>
+      <link>https://HyoseungJeon.github.io/tags/spring/</link>
+      <pubDate>Mon, 22 Apr 2024 10:39:08 +0900</pubDate>
+      
+      <guid>https://HyoseungJeon.github.io/tags/spring/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Validate</title>
+      <link>https://HyoseungJeon.github.io/tags/validate/</link>
+      <pubDate>Mon, 22 Apr 2024 10:39:08 +0900</pubDate>
+      
+      <guid>https://HyoseungJeon.github.io/tags/validate/</guid>
       <description></description>
     </item>
     
@@ -81,15 +108,6 @@
       <pubDate>Thu, 14 Mar 2024 14:04:50 +0900</pubDate>
       
       <guid>https://HyoseungJeon.github.io/tags/cache/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Spring</title>
-      <link>https://HyoseungJeon.github.io/tags/spring/</link>
-      <pubDate>Thu, 15 Feb 2024 10:38:49 +0900</pubDate>
-      
-      <guid>https://HyoseungJeon.github.io/tags/spring/</guid>
       <description></description>
     </item>
     
@@ -292,15 +310,6 @@
     </item>
     
     <item>
-      <title>Validate</title>
-      <link>https://HyoseungJeon.github.io/tags/validate/</link>
-      <pubDate>Wed, 23 Aug 2023 10:30:10 +0900</pubDate>
-      
-      <guid>https://HyoseungJeon.github.io/tags/validate/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Firebase</title>
       <link>https://HyoseungJeon.github.io/tags/firebase/</link>
       <pubDate>Thu, 10 Aug 2023 09:45:10 +0900</pubDate>
@@ -324,15 +333,6 @@
       <pubDate>Fri, 21 Jul 2023 13:48:03 +0900</pubDate>
       
       <guid>https://HyoseungJeon.github.io/tags/oop/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Annotation</title>
-      <link>https://HyoseungJeon.github.io/tags/annotation/</link>
-      <pubDate>Thu, 20 Jul 2023 11:07:59 +0900</pubDate>
-      
-      <guid>https://HyoseungJeon.github.io/tags/annotation/</guid>
       <description></description>
     </item>
     
