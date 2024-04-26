@@ -2,19 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://HyoseungJeon.github.io/</loc>
+    <lastmod>2024-04-26T16:55:04+09:00</lastmod>
+  </url><url>
+    <loc>https://HyoseungJeon.github.io/tags/java/</loc>
+    <lastmod>2024-04-26T16:55:04+09:00</lastmod>
+  </url><url>
+    <loc>https://HyoseungJeon.github.io/posts/java/</loc>
+    <lastmod>2024-04-26T16:55:04+09:00</lastmod>
+  </url><url>
+    <loc>https://HyoseungJeon.github.io/posts/</loc>
+    <lastmod>2024-04-26T16:55:04+09:00</lastmod>
+  </url><url>
+    <loc>https://HyoseungJeon.github.io/tags/</loc>
+    <lastmod>2024-04-26T16:55:04+09:00</lastmod>
+  </url><url>
+    <loc>https://HyoseungJeon.github.io/tags/thread/</loc>
+    <lastmod>2024-04-26T16:55:04+09:00</lastmod>
+  </url><url>
+    <loc>https://HyoseungJeon.github.io/posts/java/threadlocal/</loc>
+    <lastmod>2024-04-26T16:55:04+09:00</lastmod>
+  </url><url>
     <loc>https://HyoseungJeon.github.io/tags/annotation/</loc>
     <lastmod>2024-04-22T10:39:08+09:00</lastmod>
   </url><url>
     <loc>https://HyoseungJeon.github.io/posts/spring/customvalidateannotation/</loc>
-    <lastmod>2024-04-22T10:39:08+09:00</lastmod>
-  </url><url>
-    <loc>https://HyoseungJeon.github.io/</loc>
-    <lastmod>2024-04-22T10:39:08+09:00</lastmod>
-  </url><url>
-    <loc>https://HyoseungJeon.github.io/tags/java/</loc>
-    <lastmod>2024-04-22T10:39:08+09:00</lastmod>
-  </url><url>
-    <loc>https://HyoseungJeon.github.io/posts/</loc>
     <lastmod>2024-04-22T10:39:08+09:00</lastmod>
   </url><url>
     <loc>https://HyoseungJeon.github.io/tags/spring/</loc>
@@ -23,22 +35,13 @@
     <loc>https://HyoseungJeon.github.io/posts/spring/</loc>
     <lastmod>2024-04-22T10:39:08+09:00</lastmod>
   </url><url>
-    <loc>https://HyoseungJeon.github.io/tags/</loc>
-    <lastmod>2024-04-22T10:39:08+09:00</lastmod>
-  </url><url>
     <loc>https://HyoseungJeon.github.io/tags/validate/</loc>
     <lastmod>2024-04-22T10:39:08+09:00</lastmod>
   </url><url>
     <loc>https://HyoseungJeon.github.io/posts/java/blockingqueue/</loc>
     <lastmod>2024-03-25T11:28:24+09:00</lastmod>
   </url><url>
-    <loc>https://HyoseungJeon.github.io/posts/java/</loc>
-    <lastmod>2024-03-25T11:28:24+09:00</lastmod>
-  </url><url>
     <loc>https://HyoseungJeon.github.io/tags/queue/</loc>
-    <lastmod>2024-03-25T11:28:24+09:00</lastmod>
-  </url><url>
-    <loc>https://HyoseungJeon.github.io/tags/thread/</loc>
     <lastmod>2024-03-25T11:28:24+09:00</lastmod>
   </url><url>
     <loc>https://HyoseungJeon.github.io/tags/html/</loc>
