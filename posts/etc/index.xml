@@ -11,7 +11,20 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko-kr</language>
-    <lastBuildDate>Wed, 20 Mar 2024 14:15:42 +0900</lastBuildDate><atom:link href="https://HyoseungJeon.github.io/posts/etc/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 08 Jan 2025 11:06:52 +0900</lastBuildDate><atom:link href="https://HyoseungJeon.github.io/posts/etc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>LDAP</title>
+      <link>https://HyoseungJeon.github.io/posts/etc/ldap/</link>
+      <pubDate>Wed, 08 Jan 2025 11:06:52 +0900</pubDate>
+      
+      <guid>https://HyoseungJeon.github.io/posts/etc/ldap/</guid>
+      <description>LDAP이란? 경량 디렉터리 액세스 프로토콜(영어: Lightweight Directory Access Protocol; LDAP)은 TCP/IP 위에서 디렉터리 서비스를 조회하고 수정하는 응용 프로토콜이다.
+디렉터리 서비스?
+디렉터리 서비스는 네트워크상에서 조직, 사용자, 파일, 디바이스 등의 정보를 저장하고 관리하는 시스템입니다. 전화번호부와 비슷한 개념으로 생각할 수 있습니다.
+주요 특징:
+주요 특징 계층적 구조로 정보를 저장하고 관리 빠른 읽기 작업에 최적화 중앙집중식 정보 관리 제공 네트워크 자원에 대한 접근 제어 가능 결론적으론 계층화된 데이터를 관리하는 하나의 서비스라고 보면 이해가 빠른 것 같다.</description>
+    </item>
+    
     <item>
       <title>MSA Id Auditing</title>
       <link>https://HyoseungJeon.github.io/posts/etc/msaidauditing/</link>
