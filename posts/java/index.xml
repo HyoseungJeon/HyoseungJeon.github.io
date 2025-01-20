@@ -11,7 +11,19 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko-kr</language>
-    <lastBuildDate>Fri, 26 Apr 2024 16:55:04 +0900</lastBuildDate><atom:link href="https://HyoseungJeon.github.io/posts/java/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 20 Jan 2025 16:20:25 +0900</lastBuildDate><atom:link href="https://HyoseungJeon.github.io/posts/java/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Jasypt</title>
+      <link>https://HyoseungJeon.github.io/posts/java/jasypt/</link>
+      <pubDate>Mon, 20 Jan 2025 16:20:25 +0900</pubDate>
+      
+      <guid>https://HyoseungJeon.github.io/posts/java/jasypt/</guid>
+      <description>프로젝트 소스 분석 중 yml File 내에 DB connection 패스워드 부분이 암호화 된 것을 확인했다.
+ENC(~~~) 방식으로 선언되어 DB의 패스워드가 암호화 되어있어, 해당 파일을 통해 DB 서버의 정보를 파악할 수 없었다.
+하여 공개 래포에 해당 파일을 배포 시 매우 유용하겠다는 생각을 해서 한번 관련된 내용을 찾아보았다!
+정의 Jasypt is a java library which allows the developer to add basic encryption capabilities to his/her projects with minimum effort, and without the need of having deep knowledge on how cryptography works.</description>
+    </item>
+    
     <item>
       <title>Thread Local</title>
       <link>https://HyoseungJeon.github.io/posts/java/threadlocal/</link>
