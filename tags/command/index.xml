@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Command on HyoSeung IT blog</title>
+    <link>https://HyoseungJeon.github.io/tags/command/</link>
+    <description>Recent content in Command on HyoSeung IT blog</description>
+    <image>
+      <title>HyoSeung IT blog</title>
+      <url>https://HyoseungJeon.github.io/profile2.png</url>
+      <link>https://HyoseungJeon.github.io/profile2.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko-kr</language>
+    <lastBuildDate>Thu, 23 Jan 2025 11:09:55 +0900</lastBuildDate><atom:link href="https://HyoseungJeon.github.io/tags/command/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Command</title>
+      <link>https://HyoseungJeon.github.io/posts/intellij/command/</link>
+      <pubDate>Thu, 23 Jan 2025 11:09:55 +0900</pubDate>
+      
+      <guid>https://HyoseungJeon.github.io/posts/intellij/command/</guid>
+      <description> 자꾸 까먹는 단축키들 정리 메소드 추출: ctrl + alt + M 라인 삭제: ctrl + Y or backspace 라인 잘라내기: ctrl + X 리팩터: shift + F6 템플릿: ctrl + alt + T 영역 선택: ctrl + W 자동완성: ctrl + shift + enter 라인 정리: ctrl + alt + L 임포트 정리: ctrl + alt + O </description>
+    </item>
+    
+  </channel>
+</rss>
