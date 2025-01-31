@@ -2,19 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://HyoseungJeon.github.io/posts/etc/cdn/</loc>
+    <lastmod>2025-01-31T09:44:23+09:00</lastmod>
+  </url><url>
+    <loc>https://HyoseungJeon.github.io/posts/etc/</loc>
+    <lastmod>2025-01-31T09:44:23+09:00</lastmod>
+  </url><url>
+    <loc>https://HyoseungJeon.github.io/</loc>
+    <lastmod>2025-01-31T09:44:23+09:00</lastmod>
+  </url><url>
+    <loc>https://HyoseungJeon.github.io/posts/</loc>
+    <lastmod>2025-01-31T09:44:23+09:00</lastmod>
+  </url><url>
     <loc>https://HyoseungJeon.github.io/tags/command/</loc>
     <lastmod>2025-01-23T11:09:55+09:00</lastmod>
   </url><url>
     <loc>https://HyoseungJeon.github.io/posts/intellij/command/</loc>
     <lastmod>2025-01-23T11:09:55+09:00</lastmod>
   </url><url>
-    <loc>https://HyoseungJeon.github.io/</loc>
-    <lastmod>2025-01-23T11:09:55+09:00</lastmod>
-  </url><url>
     <loc>https://HyoseungJeon.github.io/posts/intellij/</loc>
-    <lastmod>2025-01-23T11:09:55+09:00</lastmod>
-  </url><url>
-    <loc>https://HyoseungJeon.github.io/posts/</loc>
     <lastmod>2025-01-23T11:09:55+09:00</lastmod>
   </url><url>
     <loc>https://HyoseungJeon.github.io/tags/</loc>
@@ -28,9 +34,6 @@
   </url><url>
     <loc>https://HyoseungJeon.github.io/posts/java/</loc>
     <lastmod>2025-01-20T16:20:25+09:00</lastmod>
-  </url><url>
-    <loc>https://HyoseungJeon.github.io/posts/etc/</loc>
-    <lastmod>2025-01-08T11:06:52+09:00</lastmod>
   </url><url>
     <loc>https://HyoseungJeon.github.io/posts/etc/ldap/</loc>
     <lastmod>2025-01-08T11:06:52+09:00</lastmod>
