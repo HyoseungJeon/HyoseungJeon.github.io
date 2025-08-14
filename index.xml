@@ -11,7 +11,37 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko-kr</language>
-    <lastBuildDate>Fri, 31 Jan 2025 09:44:23 +0900</lastBuildDate><atom:link href="https://HyoseungJeon.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 13 Aug 2025 15:11:33 +0900</lastBuildDate><atom:link href="https://HyoseungJeon.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>IntersectionObserver</title>
+      <link>https://HyoseungJeon.github.io/posts/web/intersectionobserver/</link>
+      <pubDate>Wed, 13 Aug 2025 15:11:33 +0900</pubDate>
+      
+      <guid>https://HyoseungJeon.github.io/posts/web/intersectionobserver/</guid>
+      <description>Intersection Observer API란? Intersection Observer API는 요소가 뷰포트에 들어오거나 나갈 때를 감지하는 웹 API입니다. 기존의 스크롤 이벤트와 getBoundingClientRect() 메소드를 사용하는 방식보다 성능이 뛰어나고 구현이 간단합니다.
+주요 특징 비동기적 작동: 메인 스레드를 차단하지 않고 비동기적으로 작동합니다. 성능 최적화: 스크롤 이벤트와 달리 지속적인 폴링이 없어 CPU 사용량이 적습니다. 다양한 활용: 무한 스크롤, 이미지 지연 로딩, 애니메이션 트리거 등에 활용됩니다. 기본 사용법 // 1. 옵저버 콜백 함수 정의 const callback = (entries, observer) =&amp;gt; { entries.</description>
+    </item>
+    
+    <item>
+      <title>Monorepo</title>
+      <link>https://HyoseungJeon.github.io/posts/infra/monorepo/</link>
+      <pubDate>Wed, 13 Aug 2025 14:44:50 +0900</pubDate>
+      
+      <guid>https://HyoseungJeon.github.io/posts/infra/monorepo/</guid>
+      <description>💡 롯데카드 프로젝트에 투입되며 환경을 분석하던 중 MonoRepo에 대해 듣게되었다. 소스를 받아보니 모듈별 소스가 한 프로젝트로 관리되고 있었다! 신기하네.. 정의 독립된 여러 프로젝트나 라이브러리를 하나의 저장소에서 관리하는 방식을 의미합니다.
+정의는 굉장히 간단하다. 그냥 대충 프로젝트 단위의 소스를 하나의 디렉토리로 관리하고 그 디렉토리를 기준으로 Git을 올린다고 생각하면 편할 듯 하다. 장단점 장점 코드 공유·재사용 용이 – 공통 라이브러리나 유틸을 하나의 저장소에서 바로 참조 가능. 일관된 버전 관리 – 모든 프로젝트가 동일한 버전 규칙과 릴리스 사이클을 사용.</description>
+    </item>
+    
+    <item>
+      <title>Composables</title>
+      <link>https://HyoseungJeon.github.io/posts/nuxt/composables/</link>
+      <pubDate>Wed, 13 Aug 2025 14:14:09 +0900</pubDate>
+      
+      <guid>https://HyoseungJeon.github.io/posts/nuxt/composables/</guid>
+      <description>Nuxt 3에서 composables 디렉토리는 Vue 3의 Composition API를 사용하여 재사용 가능한 함수를 정의하고 관리하는 역할을 합니다. 이 디렉토리는 컴포넌트 간에 공통 로직을 공유하고 재사용할 수 있는 방법을 제공합니다. **composables**는 Vue 3의 Composition API와 밀접한 관련이 있으며, Nuxt 3 프로젝트에서 코드 구조를 더욱 깔끔하고 유지보수하기 쉽게 만듭니다.
+주요 역할 재사용 가능한 로직 관리: composables 디렉토리 내에 정의된 함수들은 다양한 컴포넌트에서 재사용할 수 있는 로직을 캡슐화합니다. 예를 들어, API 호출, 상태 관리, 데이터 처리 등을 위한 공통 로직을 composable 함수로 작성할 수 있습니다.</description>
+    </item>
+    
     <item>
       <title>CDN</title>
       <link>https://HyoseungJeon.github.io/posts/etc/cdn/</link>

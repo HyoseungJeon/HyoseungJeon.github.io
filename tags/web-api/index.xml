@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Web API on HyoSeung IT blog</title>
+    <link>https://HyoseungJeon.github.io/tags/web-api/</link>
+    <description>Recent content in Web API on HyoSeung IT blog</description>
+    <image>
+      <title>HyoSeung IT blog</title>
+      <url>https://HyoseungJeon.github.io/profile2.png</url>
+      <link>https://HyoseungJeon.github.io/profile2.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko-kr</language>
+    <lastBuildDate>Wed, 13 Aug 2025 15:11:33 +0900</lastBuildDate><atom:link href="https://HyoseungJeon.github.io/tags/web-api/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>IntersectionObserver</title>
+      <link>https://HyoseungJeon.github.io/posts/web/intersectionobserver/</link>
+      <pubDate>Wed, 13 Aug 2025 15:11:33 +0900</pubDate>
+      
+      <guid>https://HyoseungJeon.github.io/posts/web/intersectionobserver/</guid>
+      <description>Intersection Observer API란? Intersection Observer API는 요소가 뷰포트에 들어오거나 나갈 때를 감지하는 웹 API입니다. 기존의 스크롤 이벤트와 getBoundingClientRect() 메소드를 사용하는 방식보다 성능이 뛰어나고 구현이 간단합니다.
+주요 특징 비동기적 작동: 메인 스레드를 차단하지 않고 비동기적으로 작동합니다. 성능 최적화: 스크롤 이벤트와 달리 지속적인 폴링이 없어 CPU 사용량이 적습니다. 다양한 활용: 무한 스크롤, 이미지 지연 로딩, 애니메이션 트리거 등에 활용됩니다. 기본 사용법 // 1. 옵저버 콜백 함수 정의 const callback = (entries, observer) =&amp;gt; { entries.</description>
+    </item>
+    
+  </channel>
+</rss>

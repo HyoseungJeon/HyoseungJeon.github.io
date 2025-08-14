@@ -10,6 +10,17 @@
       <link>https://HyoseungJeon.github.io/profile2.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <language>ko-kr</language><atom:link href="https://HyoseungJeon.github.io/posts/nuxt/index.xml" rel="self" type="application/rss+xml" />
+    <language>ko-kr</language>
+    <lastBuildDate>Wed, 13 Aug 2025 14:14:09 +0900</lastBuildDate><atom:link href="https://HyoseungJeon.github.io/posts/nuxt/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Composables</title>
+      <link>https://HyoseungJeon.github.io/posts/nuxt/composables/</link>
+      <pubDate>Wed, 13 Aug 2025 14:14:09 +0900</pubDate>
+      
+      <guid>https://HyoseungJeon.github.io/posts/nuxt/composables/</guid>
+      <description>Nuxt 3에서 composables 디렉토리는 Vue 3의 Composition API를 사용하여 재사용 가능한 함수를 정의하고 관리하는 역할을 합니다. 이 디렉토리는 컴포넌트 간에 공통 로직을 공유하고 재사용할 수 있는 방법을 제공합니다. **composables**는 Vue 3의 Composition API와 밀접한 관련이 있으며, Nuxt 3 프로젝트에서 코드 구조를 더욱 깔끔하고 유지보수하기 쉽게 만듭니다.
+주요 역할 재사용 가능한 로직 관리: composables 디렉토리 내에 정의된 함수들은 다양한 컴포넌트에서 재사용할 수 있는 로직을 캡슐화합니다. 예를 들어, API 호출, 상태 관리, 데이터 처리 등을 위한 공통 로직을 composable 함수로 작성할 수 있습니다.</description>
+    </item>
+    
   </channel>
 </rss>
